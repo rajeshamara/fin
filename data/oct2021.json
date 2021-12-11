@@ -1,0 +1,33 @@
+{   "summary" : [
+        {"cash" : 7744.44, "desc" : "REGULAR MONTHLY EXPENSES"},
+        {"cc" : 3840.22, "desc" : "REGULAR MONTHLY EXPENSES"},
+        {"debt" : 39, "desc" : "REGULAR MONTHLY EXPENSES"}
+    ],
+    "category" :
+    [
+        {"mortgage" : 3290.79},
+        {"kids 529" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79},
+        {"mortgage" : 3290.79}
+    ]
+}
