@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Financial Picture</title>
+    <style>
+        body{
+            font-family: "calibri";
+        }
+        #container{
+            display: flex;
+        }
+        #months{            
+            cursor: pointer;
+            width: 100px;
+            padding: 2px 2px 2px 2px;
+        }
+        .month {
+            color: black;
+        }
+        .month:hover {
+            text-decoration: underline;
+        }       
+        .image{
+            width: 90%;
+        }
+        .title{
+            font-weight: bold;
+            text-align: center;
+            font-size: larger;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script>
+        $( document ).ready(function() {LoadData();});
+        function loadImage(month) 
+        {
+            let path = month + ".png"
+            $("#image").attr("src", path);
+            $("#title").text(month);
+        }
+        function LoadData()
+        {
+            var arrayHTML = [];
+            arrayHTML.push(GenerateImageHTML(11,11,2020,2020));
+            arrayHTML.push(GenerateImageHTML(0,10,2021,2021));
+            document.getElementById("months").innerHTML = arrayHTML.join("");
+            var url = new URL(window.location.href);
+            if(url.search.length > 0){
+                let params = url.searchParams;
+                let month = `${params.get("m").toUpperCase()} ${params.get("y")}`;
+                loadImage(month);
+            }
+            $.getJSON("data/oct2021.json", function(json) {
+                console.log(json); // this will show the info it in firebug console
+            });
+        }
+        function GenerateImageHTML(startMonth, endMonth, startYear, endYear)
+        {
+            var months = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+            var array = [];
+            for(var i=startYear; i<=endYear; i++)
+            {
+                for(var j=startMonth; j<=endMonth; j++)
+                {
+                    var month = months[j] + " " + i;
+                    array.push("<span class='month' onclick=\"loadImage('" + month + "')\">" + month + "</span><br/>");
+                }
+            }
+            return array.join("");
+        }
+    </script>
+</head>
+<body>
+    <div id="container">
+        <div id="months"></div>
+        <div>
+            <div id="title" class="title"></div>
+            <div class="image"><img id="image"/></div>
+        </div>
+    </div>
+</body>
+</html>
