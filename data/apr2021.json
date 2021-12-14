@@ -1,0 +1,774 @@
+{
+  "summary": [
+    { "desc": "REGULAR MONTHLY EXPENSES", "amt": 14979.01 },
+    { "desc": "EXPENSES PAID BY CC", "amt": 3230.870184 },
+    { "desc": "CC DEBT PAYMENTS", "amt": 461.43 },
+    { "desc": "TOTAL", "amt": 18671.310184 }
+  ],
+  "category": [
+    { "desc": "INVESTMENTS", "amt": 10000 },
+    { "desc": "MORTGAGE", "amt": 2347.89 },
+    { "desc": "KIDS ACTIVITIES", "amt": 1053.5 },
+    { "desc": "UTILITIES", "amt": 918.46 },
+    { "desc": "GROCERIES", "amt": 810.69 },
+    { "desc": "AUTO PAYMENT", "amt": 782.2 },
+    { "desc": "DENTAL", "amt": 476 },
+    { "desc": "CC DEBT PAYMENT", "amt": 461.43 },
+    { "desc": "AUTO GAS", "amt": 274.97 },
+    { "desc": "CLOTHES", "amt": 184.28 },
+    { "desc": "MISC", "amt": 143.750184 },
+    { "desc": "LIFE INSURNACE", "amt": 169.79 },
+    { "desc": "RESTAURANT", "amt": 153.76 },
+    { "desc": "FAST FOOD", "amt": 146.33 },
+    { "desc": "CELL PHONE", "amt": 145.68 },
+    { "desc": "PRIME MEMBERSHIP", "amt": 126.14 },
+    { "desc": "HOA", "amt": 110 },
+    { "desc": "MAID HOUSE CLEANING", "amt": 100 },
+    { "desc": "ENTERTAINMENT", "amt": 79.58 },
+    { "desc": "MEDICAL", "amt": 75 },
+    { "desc": "PHARMACY", "amt": 66.45 },
+    { "desc": "AUTO MAINTENANCE", "amt": 57.19 },
+    { "desc": "VISION", "amt": 37 },
+    { "desc": "LOTTERY", "amt": 24 },
+    { "desc": "GROOMING", "amt": 22 },
+    { "desc": "CHARITY", "amt": 20 },
+    { "desc": "PARKING", "amt": 20 },
+    { "desc": "BOOKS", "amt": 15.22 },
+    { "desc": "STMT REWARDS", "amt": -150 }
+  ],
+  "detail": [
+    {
+      "date": "2021-04-01",
+      "desc": "LOTTERY",
+      "amt": "20",
+      "category": "LOTTERY"
+    },
+    {
+      "date": "2021-04-02",
+      "desc": "HONDA ODYSSEY PMT",
+      "amt": "546.33",
+      "category": "AUTO PAYMENT"
+    },
+    {
+      "date": "2021-04-03",
+      "desc": "YOUTUBE TV - TD CC",
+      "amt": "68.99",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2021-04-03",
+      "desc": "HOA FEES",
+      "amt": "110",
+      "category": "HOA"
+    },
+    {
+      "date": "2021-04-05",
+      "desc": "GAVE MONEY TO HOMELESS [UPENN CAMPUS]",
+      "amt": "20",
+      "category": "CHARITY"
+    },
+    {
+      "date": "2021-04-06",
+      "desc": "IRA CONTRIBUTION - LAVANYA",
+      "amt": "6000",
+      "category": "INVESTMENTS"
+    },
+    {
+      "date": "2021-04-06",
+      "desc": "IRA CONTRIBUTION - RAJESH",
+      "amt": "4000",
+      "category": "INVESTMENTS"
+    },
+    {
+      "date": "2021-04-10",
+      "desc": "CAR PAYMENT",
+      "amt": "235.87",
+      "category": "AUTO PAYMENT"
+    },
+    {
+      "date": "2021-04-10",
+      "desc": "AQUA PMT",
+      "amt": "104.46",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "LIFE INSURANCE",
+      "amt": "107.36",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "LIFE INSURANCE",
+      "amt": "62.43",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "PECO PMT",
+      "amt": "315",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-04-17",
+      "desc": "PRIMARY MORTGAGE PMT",
+      "amt": "2347.89",
+      "category": "MORTGAGE"
+    },
+    {
+      "date": "2021-04-18",
+      "desc": "VERIZON WIRELESS",
+      "amt": "145.68",
+      "category": "CELL PHONE"
+    },
+    {
+      "date": "2021-04-22",
+      "desc": "MAID HOUSE CLEANING",
+      "amt": "100",
+      "category": "MAID HOUSE CLEANING"
+    },
+    {
+      "date": "2021-04-25",
+      "desc": "LIFE INSURANCE - AIG [ANNUAL : $734.00/YR]",
+      "amt": "0",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-04-28",
+      "desc": "UTILITIES (SEWER) ($309.00 / YR)",
+      "amt": "309",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-04-28",
+      "desc": "UTILITIES (SEWER) ($190.00 / QTR) [UUTMA]",
+      "amt": "190",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "CHAT",
+      "amt": "7",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "RIYA'S TUITION",
+      "amt": "160",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "KUSHI'S PIANO LESSON",
+      "amt": "125",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "LOTTERY",
+      "amt": "2",
+      "category": "LOTTERY"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "LOTTERY",
+      "amt": "2",
+      "category": "LOTTERY"
+    },
+    {
+      "date": "2021-05-01",
+      "desc": "IPTV ($21.00 / 3-MON) * 2",
+      "amt": "0",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2021-05-01",
+      "desc": "LAWN MOWING",
+      "amt": "0",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-05-01",
+      "desc": "VERIZON FIOS PMT",
+      "amt": "0",
+      "category": "INTERNET"
+    },
+
+    {
+      "date": "2021-04-28",
+      "desc": "SPOTIFY (KUSHI)",
+      "amt": "10.59",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2021-04-15",
+      "desc": "GUMBALL 16 Pack Plastic Mason Jar Lids [ORDER # 111-3293354-7931402]",
+      "amt": "2.27",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "FEMININE PADS [ORDER # 114-1898028-9473041]",
+      "amt": "36.84",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "SOCKS [ORDER # 114-6918736-0205815]",
+      "amt": "17.215977",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "LUNCH BAG [ORDER # 114-6918736-0205815[",
+      "amt": "8.144207",
+      "category": "MISC"
+    },
+
+    {
+      "date": "2021-04-22",
+      "desc": "9 Pcs of Faux Pearl Brooches",
+      "amt": "8.47",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-04-23",
+      "desc": "SNOW SLED",
+      "amt": "37.09",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2021-04-25",
+      "desc": "PILLOWS",
+      "amt": "14.93",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-04-26",
+      "desc": "Ella Minnow Pea: A Novel in Letters",
+      "amt": "15.22",
+      "category": "BOOKS"
+    },
+    {
+      "date": "2021-04-03",
+      "desc": "BJ'S GROCERIES",
+      "amt": "55.21",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-10",
+      "desc": "BJ'S GROCERIES",
+      "amt": "123.41",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-24",
+      "desc": "BJ'S GROCERIES",
+      "amt": "48.9",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-02",
+      "desc": "MYEYEDR 210553 PA-EXTON FEXTON PA",
+      "amt": "37",
+      "category": "VISION"
+    },
+    {
+      "date": "2021-04-02",
+      "desc": "MAGGIE MOOS EXTON EXTON PA",
+      "amt": "17.01",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-02",
+      "desc": "REEDMAN TOLL HONDA DOWNINDOWNINGTOWN PA",
+      "amt": "57.19",
+      "category": "AUTO MAINTENANCE"
+    },
+    {
+      "date": "2021-04-02",
+      "desc": "ROSS STORES #224 EXTON PA",
+      "amt": "18.01",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-04-03",
+      "desc": "PRODUCE JUNCTION EXTON- EEXTON PA",
+      "amt": "14.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-03",
+      "desc": "WAWA 118 00001180 DOWNINGTOWN PA",
+      "amt": "3.29",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-03",
+      "desc": "INDIAN HUT EXTON FRANKLIN CENTPA",
+      "amt": "7.4",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-03",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "41.24",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-03",
+      "desc": "CHESTER COUNTY IU 484-2375074 PA [KUSHI'S DRIVING CLASSES]",
+      "amt": "693",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2021-04-04",
+      "desc": "APNA BAZAR EXTON EXTON PA",
+      "amt": "33.59",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-05",
+      "desc": "PPA ON STREET KIOSKS PHILADELPHIA PA",
+      "amt": "5",
+      "category": "PARKING"
+    },
+    {
+      "date": "2021-04-05",
+      "desc": "WAWA 8091 00080911 MALVERN PA [VAN]",
+      "amt": "63.7",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-04-05",
+      "desc": "PARKING 01950-1127 RAC 215-569-8400 PA",
+      "amt": "15",
+      "category": "PARKING"
+    },
+    {
+      "date": "2021-04-06",
+      "desc": "ROSS STORES #224 EXTON PA",
+      "amt": "-18.01",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-04-06",
+      "desc": "CALI PIZZA KITC INC #116 KING OF PRUSSPA",
+      "amt": "32.29",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-04-06",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPA",
+      "amt": "16.28",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2021-04-06",
+      "desc": "ROSS STORES #224 EXTON PA",
+      "amt": "25.54",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-04-06",
+      "desc": "A LA MOUSSE # 002 PHILADELPHIA PA",
+      "amt": "26.8",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-07",
+      "desc": "RITA'S WATER ICE UWCHLAN PA",
+      "amt": "6.87",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-10",
+      "desc": "PRODUCE JUNCTION EXTON- EEXTON PA",
+      "amt": "11",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-10",
+      "desc": "PRODUCE JUNCTION EXTON- EEXTON PA",
+      "amt": "5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-10",
+      "desc": "PRODUCE JUNCTION EXTON- EEXTON PA",
+      "amt": "1.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-10",
+      "desc": "PRODUCE JUNCTION EXTON- EEXTON PA",
+      "amt": "2",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-10",
+      "desc": "HIMALAYAN INDIAN GROCERY EXTON PA",
+      "amt": "84.42",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-11",
+      "desc": "TARGET 00024968 EXTON PA",
+      "amt": "2.45",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-11",
+      "desc": "MACYS .COM 800-289-6229 OH",
+      "amt": "41.87",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2021-04-12",
+      "desc": "PRODUCE JUNCTION EXTON- EEXTON PA",
+      "amt": "5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-12",
+      "desc": "PRODUCE JUNCTION EXTON- EEXTON PA",
+      "amt": "1.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-12",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPA",
+      "amt": "14.74",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2021-04-12",
+      "desc": "BHAVANI FOOD MARKET EXTON PA",
+      "amt": "79.9",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-12",
+      "desc": "FREDDY'S 39-0003 WEST CHESTER PA",
+      "amt": "4.23",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-12",
+      "desc": "KOHL'S #0277 EXTON PA",
+      "amt": "3.18",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2021-04-13",
+      "desc": "MACYS .COM 800-289-6229 OH",
+      "amt": "31.27",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2021-04-13",
+      "desc": "CASH BACK REDEMPTION REF 85663350",
+      "amt": "-150",
+      "category": "STMT REWARDS"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "PRODUCE JUNCTION EXTON- EEXTON PA",
+      "amt": "16",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "PRODUCE JUNCTION EXTON- EEXTON PA",
+      "amt": "5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPA",
+      "amt": "0.39",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "BATH AND BODY WORKS",
+      "amt": "13.4",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-04-19",
+      "desc": "STARTBUCKS",
+      "amt": "2.92",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-20",
+      "desc": "RITA'S WATER ICE UWCHLAN PA",
+      "amt": "6.03",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-23",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPA",
+      "amt": "34.75",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2021-04-23",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPA",
+      "amt": "0.29",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "MY SCHOOL * MYSCHOOLDA HTTPSWWW.MYSCIN [PROM TICKET]",
+      "amt": "38.41",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "BRANDYWINE ORAL SURGERY",
+      "amt": "476",
+      "category": "DENTAL"
+    },
+    {
+      "date": "2021-04-10",
+      "desc": "SUPERCUTS (HAIR CUT - RAJESH)",
+      "amt": "22",
+      "category": "GROOMING"
+    },
+    {
+      "date": "2021-04-10",
+      "desc": "GIANT 6478",
+      "amt": "84.74",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-11",
+      "desc": "DUNKIN DONUTS",
+      "amt": "10",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-13",
+      "desc": "STARBUCKS [CROISSANTS FOR KUSHI]",
+      "amt": "5.83",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-14",
+      "desc": "ACME 0703 [BANANAS]",
+      "amt": "1.18",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-14",
+      "desc": "WAWA 201 [VAN]",
+      "amt": "60.08",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "GIANT",
+      "amt": "12.15",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-16",
+      "desc": "TARGET 00024968 EXTON PA",
+      "amt": "2.59",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-17",
+      "desc": "CHICK-FILL-A",
+      "amt": "13.02",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-19",
+      "desc": "GIANT",
+      "amt": "53.09",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-20",
+      "desc": "DUNKIN DONUTS",
+      "amt": "10",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-20",
+      "desc": "CALI PIZZA KITC INC #116 KING OF PRUSSPA",
+      "amt": "45.31",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-04-21",
+      "desc": "CHESTER COUNTY RHEUMATOLOWEST CHESTER PA",
+      "amt": "50",
+      "category": "MEDICAL"
+    },
+    {
+      "date": "2021-04-21",
+      "desc": "CHICK-FILL-A",
+      "amt": "9.43",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-22",
+      "desc": "WAWA [VAN]",
+      "amt": "58.08",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-04-23",
+      "desc": "OLIVE GARDEN",
+      "amt": "36.15",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-04-23",
+      "desc": "WAWA [CAR]",
+      "amt": "30.51",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-04-23",
+      "desc": "ACME 0703 [BANANAS]",
+      "amt": "1.3",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-26",
+      "desc": "PRODUCE JUNCTION EXTON- EEXTON PA",
+      "amt": "6.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-26",
+      "desc": "PRODUCE JUNCTION EXTON- EEXTON PA",
+      "amt": "16.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-26",
+      "desc": "LIFETOUCH NSS ONLINE PAY EDEN PRAIRIE MN [RIYA'S SCHOOL PHOTOS]",
+      "amt": "16.94",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-04-26",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "66.53",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-29",
+      "desc": "STARBUCKS STORE 58245 CHESTER SPRINPA",
+      "amt": "5.83",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-29",
+      "desc": "RITA'S WATER ICE UWCHLAN PA",
+      "amt": "6.23",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-29",
+      "desc": "RITA'S WATER ICE UWCHLAN PA",
+      "amt": "4.44",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-04-29",
+      "desc": "PENTAHEALTH-CFP COATESVILLE PA",
+      "amt": "25",
+      "category": "MEDICAL"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "26.7",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "WAWA 8091 00080911 MALVERN PA [VAN]",
+      "amt": "62.6",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "CALI PIZZA KITC INC #116 KING OF PRUSSPA",
+      "amt": "40.01",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "8.79",
+      "category": "GROCERIES"
+    },
+
+    {
+      "date": "2021-04-02",
+      "desc": "TARGET CARD PMT",
+      "amt": "42.56",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-04-08",
+      "desc": "LAVANYA CHASE SLATE",
+      "amt": "55",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-04-20",
+      "desc": "GREEN SKY (WATER HEATER)",
+      "amt": "71.04",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-04-25",
+      "desc": "HOME DEPOT",
+      "amt": "38",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-04-25",
+      "desc": "RAYMOUR & FLANIGAN PMT",
+      "amt": "33",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-04-28",
+      "desc": "DISCOVER",
+      "amt": "178",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-04-30",
+      "desc": "TARGET CARD PMT",
+      "amt": "43.83",
+      "category": "CC DEBT PAYMENT"
+    }
+  ],
+  "cash": {
+    "summary": [
+      { "desc": "TOTAL CASH AVL", "amt": 876.320729999978 },
+      { "desc": "TOTAL DEBT", "amt": 37992.2994 },
+      { "desc": "NET WORTH", "amt": -390995.838586135 }
+    ],
+    "debts": [
+      { "desc": "CREDIT CARDS", "amt": 25088.5294 },
+      { "desc": "WATER HEATER", "amt": 1218.68 },
+      { "desc": "HOME DEPOT", "amt": 3742.07 },
+      { "desc": "HONDA ODYSSEY", "amt": 7071.04 },
+      { "desc": "RAYMOUR AND FLANNIGAN", "amt": 871.98 },
+      { "desc": "HELOC", "amt": 0 },
+      { "desc": "MORTGAGE", "amt": 353879.859916135 }
+    ]
+  }
+}

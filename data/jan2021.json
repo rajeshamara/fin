@@ -1,0 +1,1047 @@
+{
+  "summary": [
+    { "desc": "REGULAR MONTHLY EXPENSES", "amt": 5180.84 },
+    { "desc": "EXPENSES PAID BY CC", "amt": 2656.27 },
+    { "desc": "CC DEBT PAYMENTS", "amt": 7301 },
+    { "desc": "TOTAL", "amt": 15138.11 }
+  ],
+  "category": [
+    { "desc": "CC DEBT PAYMENT", "amt": 7301 },
+    { "desc": "MORTGAGE", "amt": 2347.89 },
+    { "desc": "GROCERIES", "amt": 1002.94993448192 },
+    { "desc": "AUTO PAYMENT", "amt": 782.2 },
+    { "desc": "AUTO INSURANCE", "amt": 610.53 },
+    { "desc": "HOUSE MAINTENANCE", "amt": 583.8 },
+    { "desc": "KIDS BEDROOM LIGHTS", "amt": 500 },
+    { "desc": "ELECTRICITY", "amt": 315 },
+    { "desc": "KIDS ACTIVITIES", "amt": 211.95 },
+    { "desc": "MISC", "amt": 189.308176870748 },
+    { "desc": "LIFE INSURNACE", "amt": 169.79 },
+    { "desc": "CELL PHONE", "amt": 158.06 },
+    { "desc": "HOA", "amt": 110 },
+    { "desc": "UTILITIES", "amt": 103.02 },
+    { "desc": "MAID CLEANING", "amt": 100 },
+    { "desc": "AUTO GAS", "amt": 99.8 },
+    { "desc": "RESTAURANT", "amt": 98.82 },
+    { "desc": "ENTERTAINMENT", "amt": 89.89 },
+    { "desc": "CLOTHES", "amt": 72.04 },
+    { "desc": "HOUSEHOLD SUPPLIES", "amt": 67.84 },
+    { "desc": "HOUSEHOLD MISC", "amt": 63.43 },
+    { "desc": "GROOMING", "amt": 62.6518886473298 },
+    { "desc": "INTERNET", "amt": 59.99 },
+    { "desc": "FAST FOOD", "amt": 33.59 },
+    { "desc": "GIFTS", "amt": 13.33 },
+    { "desc": "CHARITY", "amt": 10 },
+    { "desc": "AUTO MAINTENANCE", "amt": 2.33 },
+    { "desc": "STMT CREDIT", "amt": -21.1 }
+  ],
+  "detail": [
+    {
+      "date": "2021-01-05",
+      "desc": "HONDA ODYSSEY PAYMENT",
+      "amt": "546.33",
+      "category": "AUTO PAYMENT"
+    },
+    {
+      "date": "2021-01-05",
+      "desc": "YOUTUBE TV - TD CC",
+      "amt": "68.89",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2021-01-06",
+      "desc": "HOA FEES",
+      "amt": "110",
+      "category": "HOA"
+    },
+    {
+      "date": "2021-01-11",
+      "desc": "KIDS BEDROOM LIGHTS",
+      "amt": "500",
+      "category": "KIDS BEDROOM LIGHTS"
+    },
+    {
+      "date": "2021-01-11",
+      "desc": "CAR PAYMENT",
+      "amt": "235.87",
+      "category": "AUTO PAYMENT"
+    },
+    {
+      "date": "2021-01-11",
+      "desc": "AQUA PAYMENT",
+      "amt": "103.02",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-01-12",
+      "desc": "RIYA'S TUITION",
+      "amt": "120",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2021-01-14",
+      "desc": "HOME MORTGAGE PAYMENT",
+      "amt": "2347.89",
+      "category": "MORTGAGE"
+    },
+    {
+      "date": "2021-01-15",
+      "desc": "LIFE INSURANCE",
+      "amt": "107.36",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-01-15",
+      "desc": "LIFE INSURANCE",
+      "amt": "62.43",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-01-15",
+      "desc": "KUSHI'S PIANO LESSON",
+      "amt": "75",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2021-01-17",
+      "desc": "MAID HOUSE CLEANING",
+      "amt": "100",
+      "category": "MAID CLEANING"
+    },
+    {
+      "date": "2021-01-18",
+      "desc": "PECO",
+      "amt": "315",
+      "category": "ELECTRICITY"
+    },
+    {
+      "date": "2021-01-22",
+      "desc": "LAWN MOWING",
+      "amt": "0",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "LIFE INSURANCE - AIG [ANNUAL : $734/YR]",
+      "amt": "0",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "VERIZON FIOS INTERNET",
+      "amt": "59.99",
+      "category": "INTERNET"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "UTILITIES (SEWER) ($190.00 / QTR)",
+      "amt": "0",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "UTILITIES (SEWER) ($309.00 / YR)",
+      "amt": "0",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "IPTV ($21.00 / 3-MON) * 2",
+      "amt": "21",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "VERIZON WIRELESS",
+      "amt": "158.06",
+      "category": "CELL PHONE"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "SUMP PUMP ELECTRICAL WORK",
+      "amt": "250",
+      "category": "HOUSE MAINTENANCE"
+    },
+
+    {
+      "date": "2021-01-04",
+      "desc": "WAX STRIPS [ORDER # 114-6317234-8955454] (12/25/2020)",
+      "amt": "11.94",
+      "category": "GROOMING"
+    },
+    {
+      "date": "2021-01-07",
+      "desc": "AMAZON GIFT CARD [ORDER # 114-7259357-5721843]",
+      "amt": "13.33",
+      "category": "GIFTS"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "SOFT SILICONE BRUSH [ORDER #111-5013415-4816253]",
+      "amt": "16.6729022082019",
+      "category": "GROOMING"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "AVACADO OIL  [ORDER #111-5013415-4816253]",
+      "amt": "12.4499344819219",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "FACE WASH  [ORDER #111-5013415-4816253]",
+      "amt": "10.4062266440184",
+      "category": "GROOMING"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "VALINE LIP THERAPY  [ORDER #111-5013415-4816253]",
+      "amt": "3.4409366658578",
+      "category": "GROOMING"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "OIL CLEAR FACE WASH [ORDER # 111-6315566-6135415]",
+      "amt": "6.35",
+      "category": "GROOMING"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "ORGANIC FILTERED FLAX OIL [ORDER # 111-7089857-9703407]",
+      "amt": "9.76",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-11",
+      "desc": "ZOELLER SUMP PUMP",
+      "amt": "288.59",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-01-12",
+      "desc": "BURT BEE'S 100% LIP BALM",
+      "amt": "10.1428979591837",
+      "category": "GROOMING"
+    },
+    {
+      "date": "2021-01-13",
+      "desc": "OIL DISPENSER [RETURN STARTED]",
+      "amt": "9.32",
+      "category": "HOUSEHOLD MISC"
+    },
+    {
+      "date": "2021-01-13",
+      "desc": "PEPPER SHAKERS",
+      "amt": "9.14",
+      "category": "HOUSEHOLD MISC"
+    },
+    {
+      "date": "2021-01-17",
+      "desc": "COPPER WATER BOTTLE [ORDER # 111-3009339-5714662]",
+      "amt": "16.21",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-01-17",
+      "desc": "FOOD DIGITAL KITCHEN SCALE [ORDER # 111-6111569-6072242]",
+      "amt": "9",
+      "category": "HOUSEHOLD MISC"
+    },
+    {
+      "date": "2021-01-19",
+      "desc": "LIP BALM - PENDING",
+      "amt": "3.69892517006803",
+      "category": "GROOMING"
+    },
+    {
+      "date": "2021-01-19",
+      "desc": "DRAIN HAIR CATCHER - PENDING",
+      "amt": "9.5281768707483",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-01-20",
+      "desc": "HP BLACK CARTRIDGES",
+      "amt": "39.1",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-01-22",
+      "desc": "AMAZON REFUND",
+      "amt": "-15",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-01-03",
+      "desc": "COKE CANS",
+      "amt": "10.74",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-03",
+      "desc": "PRODUCE",
+      "amt": "6.27",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-03",
+      "desc": "ORANGE JUICE",
+      "amt": "5.79",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-03",
+      "desc": "CANNED TOMATO",
+      "amt": "9.69",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-03",
+      "desc": "AA BATTERIES [48 PK]",
+      "amt": "16.99",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-01-03",
+      "desc": "AAA BATTERIES [48 PK]",
+      "amt": "17.99",
+      "category": "MISC"
+    },
+    { "date": "2021-01-03", "desc": "TAX", "amt": "2.75", "category": "MISC" },
+    {
+      "date": "2021-01-10",
+      "desc": "SALTY SNACKS (CHIPS)",
+      "amt": "6.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "BOUNTY PAPER NAPKIN",
+      "amt": "26.99",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "CHARMIN TOILET ROLL",
+      "amt": "22.99",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "RED ONIONS",
+      "amt": "3.19",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "ORANGES",
+      "amt": "7.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "GAL MOZARELLA CHEESE",
+      "amt": "15.49",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "AVACADOS [2 BAGS] [4.99/BAG]",
+      "amt": "9.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "ORANGE JUICE",
+      "amt": "5.79",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "ROMA TOMATO",
+      "amt": "5.79",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "BANANAS [2 BAGS] [1.39/BAG]",
+      "amt": "2.78",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "RED POTATOS",
+      "amt": "3.49",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "MIXED PEPPER",
+      "amt": "4.79",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "ORGANIX [SHAMPOO]",
+      "amt": "7.99",
+      "category": "HOUSEHOLD MISC"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "ORGANIX [CONDITIONER]",
+      "amt": "7.99",
+      "category": "HOUSEHOLD MISC"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "ORAL TOOTHBRUSHES",
+      "amt": "19.99",
+      "category": "HOUSEHOLD MISC"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "TAX",
+      "amt": "5.16",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "BJ'S - 5% REWARDS APPLIED",
+      "amt": "-10",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-01-10",
+      "desc": "TAX CREDIT",
+      "amt": "-1.38",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "PASTA",
+      "amt": "7.89",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "HAND SOAP",
+      "amt": "4.98",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "FINISH MAX [DISH TABLETS]",
+      "amt": "10.99",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "PISTACIOS [2 BAGS][18.99/BAG]",
+      "amt": "37.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "RAW SUGAR",
+      "amt": "7.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "TOFU",
+      "amt": "2.29",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "ROMA TOMATO",
+      "amt": "5.79",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "BANANAS [2 BAGS] [1.39/BAG]",
+      "amt": "2.78",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "AVACADOS [2 BAGS] [4.99/BAG]",
+      "amt": "9.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "UNSALTED BUTTER",
+      "amt": "11.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "TAX",
+      "amt": "0.96",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "EGGS",
+      "amt": "5.49",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "ORANGE JUICE",
+      "amt": "5.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "TOMATOES",
+      "amt": "5.79",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "DRYER SHEETS",
+      "amt": "6.74",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "RASPBEERIES",
+      "amt": "6.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "TAX",
+      "amt": "0.41",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "AWARDS",
+      "amt": "-10",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "PISTACIOS",
+      "amt": "18.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "LEMONAIDE - [PACK CONTAINS 3]",
+      "amt": "6.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "CHIPS [2]",
+      "amt": "6.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "ORANGE JUICE",
+      "amt": "5.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "BANANAS - 2 [1.39 / 3 LB]",
+      "amt": "2.78",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "AVACADOS [2 BAGS] [4.99/BAG]",
+      "amt": "9.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "KIND BARK",
+      "amt": "8.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "CAKE",
+      "amt": "7.49",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "TAX",
+      "amt": "0.42",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-02",
+      "desc": "INDIAN HUT EXTON FRANKLIN CENTPA",
+      "amt": "2.11",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-01-02",
+      "desc": "CALI PIZZA KITC INC #1 KING OF PRUSSPA",
+      "amt": "37.4",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-01-02",
+      "desc": "ACME 0703 CHESTER SPRINPA",
+      "amt": "33.12",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-04",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "51.05",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-04",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "20",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-04",
+      "desc": "WAWA 201 00002014 CHESTER SPRGSPA",
+      "amt": "54.27",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-01-05",
+      "desc": "THE HOME DEPOT #4137 DOWNINGTOWN PA",
+      "amt": "1.57",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-01-06",
+      "desc": "AE OUTF ONLINE00029538 OTTAWA KS",
+      "amt": "45.07",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2021-01-06",
+      "desc": "AE OUTF ONLINE00029538 OTTAWA KS",
+      "amt": "53.9",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2021-01-07",
+      "desc": "DOLLARTREE EXTON PA",
+      "amt": "12.72",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2021-01-07",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "9.59",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-08",
+      "desc": "ON THE BORDER EXTON PA",
+      "amt": "10.21",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-01-08",
+      "desc": "INDIAN HUT EXTON FRANKLIN CENTPA",
+      "amt": "22.23",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-01-08",
+      "desc": "DAMAS MEDITERRANEAN GR EXTON PA",
+      "amt": "2.65",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-01-08",
+      "desc": "TARGET 00024968 EXTON PA",
+      "amt": "4.23",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2021-01-08",
+      "desc": "HIMALAYAN INDIAN GROCE EXTON PA",
+      "amt": "40.24",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-08",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "28",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-11",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "55.76",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "INDIAN HUT EXTON FRANKLIN CENTPA",
+      "amt": "13.75",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "APNA BAZAR EXTON EXTON PA",
+      "amt": "38.58",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "APNA BAZAR EXTON PA",
+      "amt": "17.31",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "HIMALAYAN INDIAN GROCE EXTON PA",
+      "amt": "47.91",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "22.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "CHESTERCOUNTYFOODBANK EXTON PA",
+      "amt": "10",
+      "category": "CHARITY"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "AE OUTF ONLINE",
+      "amt": "26.97",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "KFC K071089",
+      "amt": "1.37",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "GIANT 6478",
+      "amt": "53.95",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-16",
+      "desc": "DUNKIN' MOBILE",
+      "amt": "10",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-01-18",
+      "desc": "PIZZA CRUST",
+      "amt": "4.94",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-18",
+      "desc": "EGGS [18 CT]",
+      "amt": "4.94",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-18",
+      "desc": "KFC K071089",
+      "amt": "1.37",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-01-22",
+      "desc": "CHOCOLATE BANANA",
+      "amt": "4.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-22",
+      "desc": "CHOCOLATE BANANA",
+      "amt": "4.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-22",
+      "desc": "CHOCOLATE BANANA BITE SIZED",
+      "amt": "4.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-22",
+      "desc": "BANANAS",
+      "amt": "3.68",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-22",
+      "desc": "GREEN BEANS",
+      "amt": "2.79",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-22",
+      "desc": "SPRING ONIONS",
+      "amt": "1.25",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-22",
+      "desc": "APNA BAZAR",
+      "amt": "12.13",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-22",
+      "desc": "APNA BAZAR",
+      "amt": "32.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "18.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-25",
+      "desc": "WAWA 201",
+      "amt": "45.53",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-01-25",
+      "desc": "PANINI BREAD",
+      "amt": "3.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-25",
+      "desc": "MILK - 3 GALLONS [5.99/GALLON]",
+      "amt": "17.97",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-25",
+      "desc": "SILK MILK",
+      "amt": "3",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-25",
+      "desc": "BABY SPINACH",
+      "amt": "2.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-25",
+      "desc": "STRAWBERRIES - 3 [6.99 / LB]",
+      "amt": "20.97",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-25",
+      "desc": "AVACADOS - 10 [4/$5.00]",
+      "amt": "10",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-25",
+      "desc": "GEICO *AUTO",
+      "amt": "610.53",
+      "category": "AUTO INSURANCE"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "OKRA",
+      "amt": "3.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "DUNKIN' MOBILE",
+      "amt": "10",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "OLIVE GARDEN 0021857",
+      "amt": "28.98",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-01-23",
+      "desc": "HP 902 INK CARTRIDES - 2 [STAPLES.COM]",
+      "amt": "101.74",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-01-25",
+      "desc": "BANANAS [$0.49 / LB]",
+      "amt": "2.45",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-25",
+      "desc": "QUAKER CHOCLATE CHIP BARS",
+      "amt": "3.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-25",
+      "desc": "DRIVE WAY SALT",
+      "amt": "5.82",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-01-27",
+      "desc": "AE OUTFIIT ONLINE - RETURN",
+      "amt": "-53.9",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2021-01-28",
+      "desc": "STTEMENT CREDITS",
+      "amt": "-21.1",
+      "category": "STMT CREDIT"
+    },
+    {
+      "date": "2021-01-28",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "14.75",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-28",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "11",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-28",
+      "desc": "APNA BAZAR",
+      "amt": "34.47",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-30",
+      "desc": "CHICK-FIL-A #01527",
+      "amt": "6.09",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "HOME DEPOT MEASURE",
+      "amt": "35",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "PIZZA CRUST",
+      "amt": "4.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "MILK - 2 GALLONS [5.99/GALLON]",
+      "amt": "11.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "CHOCOLATE BANANA - 2 [4.99/BOX]",
+      "amt": "9.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "CHOCOLATE BANANA BITES - 2 [4.99/BOX]",
+      "amt": "9.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "STRAWBERRIES - 2 [8.99 / LB]",
+      "amt": "17.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "WIND SHIELD WASHER FLUID",
+      "amt": "2.33",
+      "category": "AUTO MAINTENANCE"
+    },
+    {
+      "date": "2021-01-31",
+      "desc": "GAS FOR SNOW BLOWER",
+      "amt": "2.82",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-01-04",
+      "desc": "PNC - RAJ",
+      "amt": "1200",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-01-08",
+      "desc": "LAVANYA CHASE SLATE",
+      "amt": "57",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-01-12",
+      "desc": "SEARS",
+      "amt": "250",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-01-13",
+      "desc": "SEARS",
+      "amt": "2500",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-01-28",
+      "desc": "DISCOVER",
+      "amt": "190",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-01-28",
+      "desc": "PNC - RAJ",
+      "amt": "3104",
+      "category": "CC DEBT PAYMENT"
+    }
+  ],
+  "cash": {
+    "summary": [
+      { "desc": "TOTAL CASH AVL", "amt": 870.54619999999 },
+      { "desc": "TOTAL DEBT", "amt": 398964.786363698 },
+      { "desc": "NET WORTH", "amt": -398094.240163699 }
+    ],
+    "debts": [
+      { "desc": "CREDIT CARDS", "amt": 32971.44 },
+      { "desc": "WATER HEATER", "amt": 1431.8 },
+      { "desc": "HOME DEPOT", "amt": 0 },
+      { "desc": "HONDA ODYSSEY", "amt": 8692.97 },
+      { "desc": "HELOC", "amt": 0 },
+      { "desc": "MORTGAGE", "amt": 355868.576363698 }
+    ]
+  }
+}

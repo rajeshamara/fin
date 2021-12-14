@@ -1,0 +1,630 @@
+{
+  "summary": [
+    { "desc": "REGULAR MONTHLY EXPENSES", "amt": 5384.42 },
+    { "desc": "EXPENSES PAID BY CC", "amt": 1031.88 },
+    { "desc": "CC DEBT PAYMENTS", "amt": 15082.04 },
+    { "desc": "TOTAL", "amt": 21498.34 }
+  ],
+  "category": [
+    { "desc": "CC PAYMENT", "amt": 15082.04 },
+    { "desc": "MORTGAGE", "amt": 2347.89 },
+    { "desc": "LIFE INSURNACE", "amt": 903.79 },
+    { "desc": "AUTO PAYMENT", "amt": 782.2 },
+    { "desc": "GROCERIES", "amt": 540.46 },
+    { "desc": "ELECTRICITY", "amt": 316 },
+    { "desc": "UTILITIES", "amt": 286.6 },
+    { "desc": "KIDS ACTIVITIES", "amt": 185 },
+    { "desc": "CELL PHONE", "amt": 158.06 },
+    { "desc": "HOUSE MAINTENANCE", "amt": 142.49 },
+    { "desc": "MAID CLEANING", "amt": 120 },
+    { "desc": "HOA", "amt": 115 },
+    { "desc": "INDIA", "amt": 111.84 },
+    { "desc": "ENTERTAINMENT", "amt": 89.89 },
+    { "desc": "GIFTS", "amt": 80 },
+    { "desc": "RESTAURANT", "amt": 73.56 },
+    { "desc": "INTERNET", "amt": 59.99 },
+    { "desc": "FAST FOOD", "amt": 49.24 },
+    { "desc": "AUTO GAS", "amt": 45.63 },
+    { "desc": "MEDICAL", "amt": 30 },
+    { "desc": "HOUSEHOLD SUPPLIES", "amt": 29.99 },
+    { "desc": "DENTAL", "amt": 22.2 },
+    { "desc": "HOUSEHOLD MISC", "amt": 21.56 },
+    { "desc": "PHARMACY", "amt": 20 },
+    { "desc": "CLOTHES", "amt": -22.02 },
+    { "desc": "MISC", "amt": -31.37 },
+    { "desc": "STMT CREDIT", "amt": -61.7 }
+  ],
+  "detail": [
+    {
+      "date": "2020-12-01",
+      "desc": "VERIZON FIOS INTERNET",
+      "amt": "59.99",
+      "category": "INTERNET"
+    },
+    {
+      "date": "2020-12-02",
+      "desc": "UTILITIES (SEWER) ($190.00 / QTR)",
+      "amt": "190",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2020-12-02",
+      "desc": "UTILITIES (SEWER) ($309.00 / YR)",
+      "amt": "0",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2020-12-02",
+      "desc": "HONDA ODYSSEY PAYMENT",
+      "amt": "546.33",
+      "category": "AUTO PAYMENT"
+    },
+    {
+      "date": "2020-12-05",
+      "desc": "YOUTUBE TV",
+      "amt": "68.89",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2020-12-09",
+      "desc": "HOA FEES",
+      "amt": "115",
+      "category": "HOA"
+    },
+    {
+      "date": "2020-12-09",
+      "desc": "CAR PAYMENT",
+      "amt": "235.87",
+      "category": "AUTO PAYMENT"
+    },
+    {
+      "date": "2020-12-10",
+      "desc": "IPTV ($21.00 / 3-MON) * 2",
+      "amt": "21",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2020-12-10",
+      "desc": "HOME MORTGAGE PAYMENT",
+      "amt": "2347.89",
+      "category": "MORTGAGE"
+    },
+    {
+      "date": "2020-12-13",
+      "desc": "PECO",
+      "amt": "316",
+      "category": "ELECTRICITY"
+    },
+    {
+      "date": "2020-12-13",
+      "desc": "KUSHI'S PIANO LESSON",
+      "amt": "25",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2020-12-14",
+      "desc": "AQUA PAYMENT",
+      "amt": "96.6",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2020-12-15",
+      "desc": "LIFE INSURANCE",
+      "amt": "107.36",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2020-12-15",
+      "desc": "LIFE INSURANCE",
+      "amt": "62.43",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2020-12-20",
+      "desc": "VERIZON WIRELESS",
+      "amt": "158.06",
+      "category": "CELL PHONE"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "CASH GIFTS TO MAIDS",
+      "amt": "20",
+      "category": "GIFTS"
+    },
+    {
+      "date": "2020-12-17",
+      "desc": "LIFE INSURANCE - AIG [ANNUAL : $734/YR]",
+      "amt": "734",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2020-12-26",
+      "desc": "RIYA'S TUITION",
+      "amt": "160",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2020-12-30",
+      "desc": "MAID HOUSE CLEANING",
+      "amt": "120",
+      "category": "MAID CLEANING"
+    },
+    {
+      "date": "2020-12-01",
+      "desc": "OYSTER FORK SET OF 24 [ORDER # 111-7105461-1415459 - NOV 27, 2020]",
+      "amt": "11.86",
+      "category": "HOUSEHOLD MISC"
+    },
+    {
+      "date": "2020-12-04",
+      "desc": "QUAKER CHEWY GRANOLA BARS [ORDER # 112-9823242-2331462]",
+      "amt": "11.39",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-07",
+      "desc": "POT HOLDERS [ORDER # 111-4347932-6301865]",
+      "amt": "4.35",
+      "category": "HOUSEHOLD MISC"
+    },
+    {
+      "date": "2020-12-19",
+      "desc": "GIFT CARD FOR RIYA'S TEACHER",
+      "amt": "15",
+      "category": "GIFTS"
+    },
+    {
+      "date": "2020-12-19",
+      "desc": "GIFT CARD FOR RIYA'S TEACHER",
+      "amt": "15",
+      "category": "GIFTS"
+    },
+    {
+      "date": "2020-12-19",
+      "desc": "GIFT CARD FOR RIYA'S TEACHER",
+      "amt": "15",
+      "category": "GIFTS"
+    },
+    {
+      "date": "2020-12-20",
+      "desc": "Ghirardelli Double Chocolate Hot Cocoa Mix [ORDER # 114-4310654-7682609]",
+      "amt": "16.22",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-12-22",
+      "desc": "GIFT CARD FOR RIYA'S TEACHER",
+      "amt": "15",
+      "category": "GIFTS"
+    },
+    {
+      "date": "2020-12-23",
+      "desc": "PAINT PENS [ORDER # 114-8178986-7233846]",
+      "amt": "2.55",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-12-26",
+      "desc": "LEGGINGS - RETURN STARTED",
+      "amt": "25.98",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2020-12-24",
+      "desc": "TRAVEL WALL CALENDAR [ORDER # 111-7329461-5417051]",
+      "amt": "7.48",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-24",
+      "desc": "COCONUT OPENER [ORDER # 111-7329461-5417051]",
+      "amt": "5.35",
+      "category": "HOUSEHOLD MISC"
+    },
+    {
+      "date": "2020-12-28",
+      "desc": "SUMP PUMP & PARTS  [ORDER # 112-0246602-0661876] [PAID BY BOA] - RETURNED",
+      "amt": "105.47",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2020-12-05",
+      "desc": "BJ'S - PAPER PRODUCT",
+      "amt": "29.99",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2020-12-05",
+      "desc": "BJ'S - PRODUCE",
+      "amt": "18.15",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-05",
+      "desc": "BJ'S - DAIRY",
+      "amt": "6.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-05",
+      "desc": "BJ'S - FRESH BAKERY",
+      "amt": "3.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-05",
+      "desc": "BJ'S - 5% REWARDS APPLIED",
+      "amt": "-7.78",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-12",
+      "desc": "BJ'S - SALTY SNACKS",
+      "amt": "6.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-12",
+      "desc": "BJ'S - EGGS",
+      "amt": "5.49",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-12",
+      "desc": "BJ'S - DAIRY",
+      "amt": "5.79",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-12",
+      "desc": "BJ'S - MILK",
+      "amt": "6.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-12",
+      "desc": "BJ'S - PRODUCE",
+      "amt": "18.15",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-19",
+      "desc": "BJ'S - SALTY SNACKS",
+      "amt": "36.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-19",
+      "desc": "BJ'S - PRODUCE",
+      "amt": "18.15",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-19",
+      "desc": "BJ'S - USE AMEX GIFT CARD FOR CHANING UTIL PROVIDER ",
+      "amt": "-50",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-27",
+      "desc": "BJ'S - SALTY SNACKS",
+      "amt": "25.97",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-27",
+      "desc": "BJ'S - EGGS",
+      "amt": "5.49",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-27",
+      "desc": "BJ'S - PRODUCE [AVACADO'S, CLEMENTINES, BANANANS ETC]",
+      "amt": "18.15",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-27",
+      "desc": "BJ'S - ORANGE JUICE",
+      "amt": "5.79",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-27",
+      "desc": "BJ'S - CORN OIL",
+      "amt": "10.49",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-11",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "60.33",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-12",
+      "desc": "LIONVILLE DENTAL ASSOC EXTON PA",
+      "amt": "22.2",
+      "category": "DENTAL"
+    },
+    {
+      "date": "2020-12-14",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPA",
+      "amt": "20",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2020-12-14",
+      "desc": "A EAGLE OUTFTR00008664 EXTON PA - RETURN",
+      "amt": "-48",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2020-12-14",
+      "desc": "WAWA 201 00002014 CHESTER SPRGSPA",
+      "amt": "2.59",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-12-14",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "13.75",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-14",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "2.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-14",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "9",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-14",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "22.95",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-14",
+      "desc": "WAWA 8033 00080333 EXTON PA",
+      "amt": "42.44",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2020-12-14",
+      "desc": "WAWA 8033 00080333 EXTON PA",
+      "amt": "3.19",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2020-12-15",
+      "desc": "HP *HP.COM STORE 888-345-5409 CA",
+      "amt": "25.43",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-12-15",
+      "desc": "BED BATH & BEYOND #432 EXTON PA - RETURN",
+      "amt": "-59.35",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-12-16",
+      "desc": "CORPORATE BILLING OFFI EXTON PA",
+      "amt": "30",
+      "category": "MEDICAL"
+    },
+    {
+      "date": "2020-12-17",
+      "desc": "CASH REWARDS STATEMENT CREDIT",
+      "amt": "-61.7",
+      "category": "STMT CREDIT"
+    },
+    {
+      "date": "2020-12-17",
+      "desc": "CHICK-FIL-A #01527 EXTON PA",
+      "amt": "9.43",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-12-19",
+      "desc": "BAWARCHI BIRYANIS MALVERN PA",
+      "amt": "52.91",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "THE HOME DEPOT #4137 DOWNINGTOWN PA",
+      "amt": "37.02",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "WHOLEFDS EXT#10660 EXTON PA",
+      "amt": "34.42",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "INDIAN HUT EXTON FRANKLIN CENTPA",
+      "amt": "20.65",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "21.96",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "15",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "6",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "3.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "2",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "9",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "FOREIGN TRANSACTION FEE",
+      "amt": "3.25",
+      "category": "INDIA"
+    },
+    {
+      "date": "2020-12-21",
+      "desc": "AMAZON PAY INDIA PRIVA BANGALORE KAR",
+      "amt": "108.59",
+      "category": "INDIA"
+    },
+    {
+      "date": "2020-12-22",
+      "desc": "DUNKIN' MOBILE 8004470013 MA",
+      "amt": "10",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-12-24",
+      "desc": "HIMALAYAN INDIAN GROCE EXTON PA",
+      "amt": "87.89",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-28",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "82.52",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-28",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "8.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-28",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "6.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-12-30",
+      "desc": "TST* DIXIE PICNIC FRAZER PA",
+      "amt": "11",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-12-07",
+      "desc": "BOA CC PMT",
+      "amt": "162",
+      "category": "CC PAYMENT"
+    },
+    {
+      "date": "2020-12-08",
+      "desc": "LAVANYA CHASE SLATE",
+      "amt": "59",
+      "category": "CC PAYMENT"
+    },
+    {
+      "date": "2020-12-13",
+      "desc": "SEARS",
+      "amt": "250",
+      "category": "CC PAYMENT"
+    },
+    {
+      "date": "2020-12-16",
+      "desc": "SEARS",
+      "amt": "5000",
+      "category": "CC PAYMENT"
+    },
+    {
+      "date": "2020-12-16",
+      "desc": "PNC",
+      "amt": "2500",
+      "category": "CC PAYMENT"
+    },
+    {
+      "date": "2020-12-17",
+      "desc": "GREEN SKY WATER HEATER",
+      "amt": "71.04",
+      "category": "CC PAYMENT"
+    },
+    {
+      "date": "2020-12-18",
+      "desc": "PNC",
+      "amt": "2500",
+      "category": "CC PAYMENT"
+    },
+    {
+      "date": "2020-12-18",
+      "desc": "PNC",
+      "amt": "1500",
+      "category": "CC PAYMENT"
+    },
+    {
+      "date": "2020-12-28",
+      "desc": "PNC",
+      "amt": "250",
+      "category": "CC PAYMENT"
+    },
+    {
+      "date": "2020-12-28",
+      "desc": "DISCOVER",
+      "amt": "193",
+      "category": "CC PAYMENT"
+    },
+    {
+      "date": "2020-12-28",
+      "desc": "AT&T UNIV CC PMT",
+      "amt": "97",
+      "category": "CC PAYMENT"
+    },
+    {
+      "date": "2020-12-29",
+      "desc": "PNC",
+      "amt": "2500",
+      "category": "CC PAYMENT"
+    }
+  ],
+  "cash": {
+    "summary": [
+      { "desc": "TOTAL CASH AVL", "amt": 3114.65119999999 },
+      { "desc": "TOTAL DEBT", "amt": 405990.580072914 },
+      { "desc": "NET WORTH", "amt": -402875.928872914 }
+    ],
+    "debts": [
+      { "desc": "CREDIT CARDS", "amt": 38676.4899999999 },
+      { "desc": "WATER HEATER", "amt": 1502.84 },
+      { "desc": "HOME DEPOT", "amt": 0 },
+      { "desc": "HONDA ODYSSEY", "amt": 9232.66 },
+      { "desc": "HELOC", "amt": 50 },
+      { "desc": "MORTGAGE", "amt": 356528.590072914 }
+    ]
+  }
+}
