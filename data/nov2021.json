@@ -1,9 +1,9 @@
 {
   "summary": [
-    { "desc": "REGULAR MONTHLY EXPENSES", "amt": 8010.23 },
+    { "desc": "REGULAR MONTHLY EXPENSES", "amt": 7910.23 },
     { "desc": "EXPENSES PAID BY CC", "amt": 2309.87 },
     { "desc": "CC PAYMENTS", "amt": 39 },
-    { "desc": "TOTAL", "amt": 10359.10 }
+    { "desc": "TOTAL", "amt": 10259.1 }
   ],
   "category": [
     { "desc": "MORTGAGE", "amt": 3290.79 },
@@ -13,12 +13,12 @@
     { "desc": "RESTAURANT", "amt": 343.8 },
     { "desc": "AUTO GAS", "amt": 292.82 },
     { "desc": "AUTO PAYMENT", "amt": 231.73 },
-    { "desc": "RELIGIOUS ACTIVITIES", "amt": 220.61 },
     { "desc": "KUSHI SCHOOL", "amt": 200 },
     { "desc": "LIFE INSURNACE", "amt": 169.79 },
     { "desc": "FAST FOOD", "amt": 160 },
     { "desc": "CELL PHONE", "amt": 148.71 },
     { "desc": "MISC", "amt": 141.73 },
+    { "desc": "RELIGIOUS ACTIVITIES", "amt": 120.61 },
     { "desc": "KITCHEN", "amt": 113.53 },
     { "desc": "HOA", "amt": 110 },
     { "desc": "ENTERTAINMENT", "amt": 89.89 },
@@ -111,12 +111,7 @@
       "amt": "148.71",
       "category": "CELL PHONE"
     },
-    {
-      "date": "2021-11-25",
-      "desc": "FOOD FOR POOJA",
-      "amt": "100",
-      "category": "RELIGIOUS ACTIVITIES"
-    },
+    { "date": "2021-11-25", "desc": "0", "amt": "0", "category": "0" },
     {
       "date": "2021-11-25",
       "desc": "LIFE INSURANCE - AIG [ANNUAL : $734.00/YR]",
@@ -267,6 +262,12 @@
       "desc": "PLATE/UTENSL",
       "amt": "5.89",
       "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-11-30",
+      "desc": "BJ'S - GROCERIES",
+      "amt": "0",
+      "category": "GROCERIES"
     },
     {
       "date": "2021-11-01",
@@ -688,6 +689,7 @@
       "amt": "36.12",
       "category": "AUTO GAS"
     },
+
     {
       "date": "2021-11-17",
       "desc": "HOME DEPOT",
@@ -695,7 +697,6 @@
       "category": "CC DEBT PAYMENT"
     }
   ],
-
   "cash": {
     "summary": [
       { "desc": "TOTAL CASH AVL", "amt": 604.060929999981 },
