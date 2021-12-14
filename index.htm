@@ -28,9 +28,92 @@
             text-align: center;
             font-size: larger;
         }
+        
+        .reg{
+            background-color: rgb(204, 255, 204);   
+        }        
+
+        .ccexp{
+            background-color: rgb(255, 255, 133);
+        }
+        .ccdebt{
+            background-color: rgb(255, 204, 153);
+        }
+        .total{
+            background-color: rgb(153, 204, 255);
+            font-weight: bold;
+        }
+        .debt{
+            background-color: rgb(255, 239, 239);
+            border : solid 2px black;
+        }
+        .debt-summary{
+            background-color: rgb(255, 255, 255);
+        }
+        .oudebt{
+            text-align: center;
+            font-weight: bold;
+            color: red;
+            border-top: solid 2px black;
+            border-bottom: solid 2px black;
+        }
+        table, tr, td{
+            border-collapse: collapse;
+            border: solid 1px rgb(212,212, 212);
+        }
+         table.detail-exp td, th {
+            border-collapse: collapse;
+            border: solid 1px black;
+        }
+
+        table.detail-exp th {
+            background-color: rgba(200, 200, 200);
+        }        
+
+        .spacer {
+            width: 20px;
+        }
+        .amount{
+            text-align: right;
+            padding : 0px 5px 0px 5px;
+        }
+        .amount-bld{
+            text-align: right;
+            padding : 0px 5px 0px 5px;
+            font-weight: bold;
+        }
+        .amount-bld-neg{
+            text-align: right;
+            padding : 0px 5px 0px 5px;
+            font-weight: bold;
+            color: red;
+        }
+        .curr{
+            float: left;
+        }
+        .test1{
+            vertical-align: top;
+            padding: 0px;
+        }
+        .test2{
+            vertical-align: top;
+            background-color: rgb(195, 195, 195);
+            padding-left: 5px;
+        }
+        .label {
+            padding-right: 5px;
+        }
     </style>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="data/js/nov2021.js"></script>
     <script>
+        // Create our number formatter.
+        var data = {};
+        const formatter = new Intl.NumberFormat('en-US', {
+            minimumFractionDigits: 2,
+            maximumFractionDigits: 2,
+        });
+        var months = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
         $( document ).ready(function() {LoadData();});
         function loadImage(month) 
         {
@@ -43,30 +126,127 @@
             var arrayHTML = [];
             arrayHTML.push(GenerateImageHTML(11,11,2020,2020));
             arrayHTML.push(GenerateImageHTML(0,10,2021,2021));
-            document.getElementById("months").innerHTML = arrayHTML.join("");
+            $("#months").html(arrayHTML.join(""));
             var url = new URL(window.location.href);
+            var month = "";
             if(url.search.length > 0){
                 let params = url.searchParams;
-                let month = `${params.get("m").toUpperCase()} ${params.get("y")}`;
-                loadImage(month);
+                month = `${params.get("m").toUpperCase()} ${params.get("y")}`;
             }
-            $.getJSON("data/oct2021.json", function(json) {
+            else
+            {
+                var date = new Date();
+                console.log(date);
+                console.log(date.getMonth());
+                console.log(date.getFullYear())
+                month = `${months[date.getMonth() - 1]} ${date.getFullYear()}`;
+            }
+            if(month != ""){
+                loadMonthExpenseDetails(month);
+            }
+        }
+        function loadMonthExpenseDetails(month){
+            $("#title").text(month);
+            let jsonFile = `data/${month.replace(" ", "")}.json`;
+            $.getJSON(jsonFile.toLowerCase(), function(json) {
+                data = json;
                 console.log(json); // this will show the info it in firebug console
+                $("#expenses-summary").html(getExpensesSummary(json));
             });
+        }
+        function getExpensesSummary(data){
+            var arrHTML = [];
+            arrHTML.push(`<table><tr><td class="test1"><table>`);
+            let cat = "summary";
+            arrHTML.push(generateExpensesSummaryHTML(cat, data[cat], ["reg", "ccexp", "ccdebt", "total"]));
+            arrHTML.push(`<tr><td>&nbsp;</td><td></td></tr>`);
+            cat = "category";
+            arrHTML.push(generateExpensesSummaryHTML(cat, data[cat]));
+            arrHTML.push(`</table></td><td class="test2"><table class="debt">`);            
+            arrHTML.push(generateExpensesSummaryHTML("", data["cash"]["summary"], ["debt-summary"]));
+            arrHTML.push(`<tr><td class="oudebt" colspan="3">OUTSTANDING DEBTS</td></tr>`);
+            arrHTML.push(generateExpensesSummaryHTML("", data["cash"]["debts"]));
+            arrHTML.push(`</td></tr></table>`);
+            return arrHTML.join("");
+        }
+        
+        function generateExpensesSummaryHTML(cat, data, css = null){
+            let arrHTML = [];
+            for(var i=0; i<data.length; i++){
+                let amtClass = "amount";
+                let amount = formatter.format(data[i]['amt']);
+                if(data[i]['amt'] < 0 ){
+                    if(css != null)
+                        amtClass = "amount-bld-neg";
+                    amount = `(${formatter.format(data[i]['amt'] * -1.0)})`;
+                }
+                let cssClass = "";
+                if(css != null){
+                    cssClass = (css.length == 1) ? css[0] : css[i];
+                }
+                let event = "";
+                if(cat == "category"){
+                    event = `style="cursor : pointer" onclick="loadExpenseDetails('${data[i]['desc']}')"`;       
+                }
+                arrHTML.push(`
+                <tr class="${cssClass}">
+                    <td class="label" ${event}>${data[i]['desc']}</td>
+                    <td class="${amtClass}"><div class="curr">$</div>${amount}</td>
+                </tr>`);                
+            }           
+            return arrHTML.join("");
         }
         function GenerateImageHTML(startMonth, endMonth, startYear, endYear)
         {
-            var months = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
             var array = [];
             for(var i=startYear; i<=endYear; i++)
             {
                 for(var j=startMonth; j<=endMonth; j++)
                 {
                     var month = months[j] + " " + i;
-                    array.push("<span class='month' onclick=\"loadImage('" + month + "')\">" + month + "</span><br/>");
+                    array.push("<span class='month' onclick=\"loadMonthExpenseDetails('" + month + "')\">" + month + "</span><br/>");
                 }
             }
             return array.join("");
+        }
+        function loadExternalJSData()
+        {
+            //console.log("jsondata = ", nov2021);
+        }
+        function loadExpenseDetails(category){
+            console.log("category clicked = ", category);
+            console.log("data = ", data["detail"]);
+
+            let list = data["detail"].filter(item => item["category"] == category);
+            //console.log("list = ", list);
+
+            var strHTML = [];
+            strHTML.push(`<table class="detail-exp">
+                <tr style="font-style:bold">
+                    <th>Date</th>
+                    <th style="width:500px">Description</th>
+                    <th>Amount</th>                
+                `);
+            for(var i=0; i<list.length; i++){
+                let amtClass = "amount";
+                let amount = formatter.format(list[i]['amt']);
+                if(list[i]['amt'] < 0 ){
+                    amount = `(${formatter.format(list[i]['amt'] * -1.0)})`;
+                }
+
+                strHTML.push(`
+                <tr>
+                    <td class="label" >${list[i]['date']}</td>
+                    <td class="label" >${list[i]['desc']}</td>
+                    <td class="${amtClass}"><div class="curr">$</div>${amount}</td>
+                </tr>`);      
+            }           
+            strHTML.push(`</table>`);
+            $("#expenses-details").html(strHTML.join("")); 
+        }
+        function getJSONData(json){
+            let  obj = JSON.parse(json);
+            return obj;
         }
     </script>
 </head>
@@ -75,8 +255,15 @@
         <div id="months"></div>
         <div>
             <div id="title" class="title"></div>
-            <div class="image"><img id="image"/></div>
+            <div class="image" style="display: none;"><img id="image"/></div>
+            <div style="font-size: 0.95em;">
+                <div id="expenses-summary"></div>
+            </div>
+            </div>
+        <div class="spacer"></div>
+        <div style="font-size: 0.95em;">
+            <div id="expenses-details"></div>
         </div>
-    </div>
+    </div>    
 </body>
 </html>
