@@ -1,0 +1,708 @@
+{
+  "summary": [
+    { "desc": "REGULAR MONTHLY EXPENSES", "amt": 7744.44 },
+    { "desc": "EXPENSES PAID BY CC", "amt": 3887.79 },
+    { "desc": "CC PAYMENTS", "amt": 39 },
+    {"desc": "TOTAL","amt" : 11671.23}
+  ],
+  "category": [
+    { "desc": "MORTGAGE", "amt": 3290.79 },
+    { "desc": "KIDS 529", "amt": 1650 },
+    { "desc": "RIYA BRACES", "amt": 1560 },
+    { "desc": "INVESTMENTS", "amt": 1000 },
+    { "desc": "GROCERIES", "amt": 856.07 },
+    { "desc": "UTILITIES", "amt": 458.63 },
+    { "desc": "AUTO INSURANCE", "amt": 451.53 },
+    { "desc": "CLOTHES", "amt": 278.6 },
+    { "desc": "HOUSE MAINTENANCE", "amt": 277.5 },
+    { "desc": "MISC", "amt": 238.1 },
+    { "desc": "AUTO PAYMENT", "amt": 231.73 },
+    { "desc": "AUTO GAS", "amt": 209.05 },
+    { "desc": "CELL PHONE", "amt": 178.47 },
+    { "desc": "LIFE INSURNACE", "amt": 169.79 },
+    { "desc": "HOA", "amt": 110 },
+    { "desc": "RESTAURANT", "amt": 104.13 },
+    { "desc": "FAST FOOD", "amt": 98.75 },
+    { "desc": "MEDICAL", "amt": 86.77 },
+    { "desc": "ENTERTAINMENT", "amt": 68.89 },
+    { "desc": "AUTO MAINTENANCE", "amt": 66.41 },
+    { "desc": "PHARMACY", "amt": 56.93 },
+    { "desc": "GROOMING", "amt": 48.71 },
+    { "desc": "INTERNET", "amt": 39.99 },
+    { "desc": "CC DEBT PAYMENT", "amt": 39 },
+    { "desc": "BOOKS", "amt": 32.76 },
+    { "desc": "INDIA EXPENSES", "amt": 25.62 },
+    { "desc": "LOTTERY", "amt": 18 },
+    { "desc": "KIDS ACTIVITIES", "amt": 10.59 },
+    { "desc": "MISC SCHOOL", "amt": 10.43 },
+    { "desc": "SHOES", "amt": 3.99 }
+  ],
+  "detail": [
+    {
+      "date": "2021-10-01",
+      "desc": "LOTTERY",
+      "amt": "18",
+      "category": "LOTTERY"
+    },
+    {
+      "date": "2021-10-01",
+      "desc": "VERIZON FIOS PMT",
+      "amt": "39.99",
+      "category": "INTERNET"
+    },
+    {
+      "date": "2021-10-01",
+      "desc": "YOUTUBE TV",
+      "amt": "68.89",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2021-10-01",
+      "desc": "KIDS 529",
+      "amt": "1650",
+      "category": "KIDS 529"
+    },
+    {
+      "date": "2021-10-10",
+      "desc": "HOA FEES",
+      "amt": "110",
+      "category": "HOA"
+    },
+    {
+      "date": "2021-10-10",
+      "desc": "HONDA CIVIC CAR PMT",
+      "amt": "231.73",
+      "category": "AUTO PAYMENT"
+    },
+    {
+      "date": "2021-10-10",
+      "desc": "AQUA PMT",
+      "amt": "84.63",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-10-15",
+      "desc": "IPTV ($21.00 / 3-MON) * 2",
+      "amt": "0",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2021-10-16",
+      "desc": "PECO PMT",
+      "amt": "374",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-10-16",
+      "desc": "LIFE INSURANCE",
+      "amt": "107.36",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-10-16",
+      "desc": "LIFE INSURANCE",
+      "amt": "62.43",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "PRIMARY MORTGAGE PMT",
+      "amt": "3290.79",
+      "category": "MORTGAGE"
+    },
+    {
+      "date": "2021-10-18",
+      "desc": "VERIZON WIRELESS",
+      "amt": "178.47",
+      "category": "CELL PHONE"
+    },
+    {
+      "date": "2021-10-25",
+      "desc": "MOSTAFA (FIX CIRCUIT BREAKER)",
+      "amt": "70",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-10-25",
+      "desc": "LIFE INSURANCE - AIG [ANNUAL : $734.00/YR]",
+      "amt": "0",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-10-28",
+      "desc": "UTILITIES (SEWER) ($190.00 / QTR) [UUTMA]",
+      "amt": "0",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-10-26",
+      "desc": "MOSTAFA (FIX CHECK VALVE SUMP PUMP)",
+      "amt": "100",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-10-25",
+      "desc": "BOYS NIGHT OUT GODAVARI DINNER",
+      "amt": "28",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-10-04",
+      "desc": "DIWALI CAWLEY CT",
+      "amt": "65",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-01",
+      "desc": "KOHL'S CARD PMT - SEP PURCHASES",
+      "amt": "94.13",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2021-10-25",
+      "desc": "COINBASE SHIB PURCHASE",
+      "amt": "1000",
+      "category": "INVESTMENTS"
+    },
+    {
+      "date": "2021-11-02",
+      "desc": "TARGET'S CARD PMT - OCT PURCHASE [PAID IN NOV]",
+      "amt": "171.02",
+      "category": "CLOTHES"
+    },
+
+    {
+      "date": "2021-10-07",
+      "desc": "Stylus for iPad 2 Pcs [ORDER # 114-8301067-6423419]",
+      "amt": "14.56",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-10",
+      "desc": "Stylus Pen for Touch Screens [ORDER # 114-0671487-4008258]",
+      "amt": "10.59",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-13",
+      "desc": "Steripod TB Protector (8 pods) Multi Exclusive Colors [ORDER # 112-1992042-1411443]",
+      "amt": "17.53",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "Chamberlain MYQ-G0402 Garage-Door-Sensors, White [ORDER # 114-6271882-1243440]",
+      "amt": "19.99",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "Kasa Smart Plug by TP-Link, Smart Home Wi-Fi Outlet Works with Alexa, Echo, Google Home & IFTTT, No Hub Required, Remote Control, 15 Amp, UL Certified, 1-Pack(HS103) , WHITE [ORDER # 114-6271882-1243440]",
+      "amt": "9.99",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "myQ Chamberlain Smart Garage Control - Wireless Garage Hub and Sensor with Wifi & Bluetooth - Smartphone Controlled, New Design, myQ-G0401-ES, White [ORDER # 114-6271882-1243440]",
+      "amt": "24.98",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "Winsor & Newton 7005166 Artist Vine Charcoal Sticks 12/Pkg - Medium [ORDER # 114-6271882-1243440]",
+      "amt": "9.76",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "TAX [ORDER # 114-6271882-1243440]",
+      "amt": "3.77",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "GIFT CARD AMT [ORDER # 114-6271882-1243440]",
+      "amt": "-25.89",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "REWARDS PTS [ORDER # 114-6271882-1243440]",
+      "amt": "-7.89",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "COUPON [ORDER # 114-6271882-1243440]",
+      "amt": "-2",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-10-19",
+      "desc": "USB TYPE C CABLES [ORDER # 114-9427905-1265057]",
+      "amt": "9",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-19",
+      "desc": "SCOTCH TAPE [ORDER # 114-7516667-2105835]",
+      "amt": "14.34",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-20",
+      "desc": "MOBILE SLIDE TABLE - RETURNED [ORDER # 114-5266332-8201028]",
+      "amt": "31.79",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-20",
+      "desc": "DUPATTA FOR LAVANYA [ORDER # 114-4376259-8774606]",
+      "amt": "13.45",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2021-10-22",
+      "desc": "KIDS VITAMINS [ORDER # 114-9910469-5188259]",
+      "amt": "44.14",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-26",
+      "desc": "MICRO USB TO USB [ORDER # 114-5315223-5697033]",
+      "amt": "8.05",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-27",
+      "desc": "WAX [ORDER # 111-4576180-1814663]",
+      "amt": "48.71",
+      "category": "GROOMING"
+    },
+    {
+      "date": "2021-10-27",
+      "desc": "RIYA'S BOOKS",
+      "amt": "32.76",
+      "category": "BOOKS"
+    },
+    {
+      "date": "2021-10-29",
+      "desc": "FOOD DEHYDRATOR MACHINE [ORDER # 114-3767371-1776225]",
+      "amt": "74.79",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-10-02",
+      "desc": "BJ'S ",
+      "amt": "68.83",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-09",
+      "desc": "BJ'S ",
+      "amt": "50.97",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "BJ'S ",
+      "amt": "58.71",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-25",
+      "desc": "BJ'S ",
+      "amt": "57.42",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-02",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "8.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-04",
+      "desc": "GIANT 6478             EXTON         PA",
+      "amt": "11.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-02",
+      "desc": "GIANT 6478             EXTON         PA",
+      "amt": "8.88",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-02",
+      "desc": "GIANT 6478             EXTON         PA",
+      "amt": "17.97",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-01",
+      "desc": "SPOTIFY",
+      "amt": "10.59",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2021-10-02",
+      "desc": "DIABETES STRIPS",
+      "amt": "25.62",
+      "category": "INDIA EXPENSES"
+    },
+    {
+      "date": "2021-10-08",
+      "desc": "DUNKIN DONUTS",
+      "amt": "10",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-10-04",
+      "desc": "BHAVANI FOOD MARKET    EXTON         PA",
+      "amt": "10.25",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-04",
+      "desc": "MAGGIE MOOS EXTON      EXTON         PA",
+      "amt": "12.51",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-10-04",
+      "desc": "PHR*PentaHealthLLC     610-5947590   PA",
+      "amt": "86.77",
+      "category": "MEDICAL"
+    },
+    {
+      "date": "2021-10-12",
+      "desc": "CHIPOTLE 1550          EXTON         PA",
+      "amt": "8.64",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-10-12",
+      "desc": "GIANT 6478             EXTON         PA",
+      "amt": "41.03",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-12",
+      "desc": "BHAVANI FOOD MARKET    EXTON         PA",
+      "amt": "9.89",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-13",
+      "desc": "GEICO  *AUTO           800-841-3000  DC",
+      "amt": "451.53",
+      "category": "AUTO INSURANCE"
+    },
+    {
+      "date": "2021-10-14",
+      "desc": "CALI PIZZA KITC INC #1 KING OF PRUSS PA",
+      "amt": "37.89",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-10-18",
+      "desc": "GIANT 6478             EXTON         PA",
+      "amt": "34.94",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-18",
+      "desc": "ACME 0703              CHESTER SPRIN PA",
+      "amt": "6.78",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-18",
+      "desc": "SQ *CRAIG SCOTT IN    WEST CHESTER  PA",
+      "amt": "6.09",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-19",
+      "desc": "WEGMANS #050           DOWNINGTOWN   PA",
+      "amt": "6.49",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-21",
+      "desc": "DOLLARTREE             EXTON         PA",
+      "amt": "1.06",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-25",
+      "desc": "DUNKIN #344280 Q35     CHESTER SPRIN PA",
+      "amt": "0.68",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-10-26",
+      "desc": "WEGMANS #050           DOWNINGTOWN   PA",
+      "amt": "35.4",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-01",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "13.23",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-03",
+      "desc": "FAMOUSFOOTWEAR#211 EXTON PAAPPLE PAY ENDING IN 7621",
+      "amt": "3.99",
+      "category": "SHOES"
+    },
+    {
+      "date": "2021-10-04",
+      "desc": "STARBUCKS 800-782-7282 800-782-7282 WAAPPLE PAY ENDING IN 076689840670TU5EL9N5",
+      "amt": "10",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-10-05",
+      "desc": "SQ *INDIAN HUT EXTON EXTON PA0001152921510637551460",
+      "amt": "26.24",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-10-06",
+      "desc": "WAWA 118 DOWNINGTOWN PA",
+      "amt": "33.62",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-10-07",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "7.52",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2021-10-07",
+      "desc": "BHAVANI FOOD MARKET EXTON PAAPPLE PAY ENDING IN 7621",
+      "amt": "13.93",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-09",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "18.42",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-10",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "-3",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-10",
+      "desc": "STARBUCKS 800-782-7282 800-782-7282 WAAPPLE PAY ENDING IN 762185620703AUGUE7EE",
+      "amt": "20",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-10-10",
+      "desc": "SPEEDWAY 06734 EXTON PA",
+      "amt": "68.96",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-10-10",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "31.39",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-10",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "16.46",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-11",
+      "desc": "PRODUCE JUNCTION EXTON- EXTON PA",
+      "amt": "19.25",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-14",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "41.59",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2021-10-15",
+      "desc": "AZDIGITALSOFT 3862597082 FL",
+      "amt": "4.29",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-15",
+      "desc": "SCOTT HONDA OF WEST CHES WEST CHESTER PA",
+      "amt": "66.41",
+      "category": "AUTO MAINTENANCE"
+    },
+    {
+      "date": "2021-10-16",
+      "desc": "SQ *CHESTER SPRINGS CR CHESTER SPRINPAAPPLE PAY ENDING IN 76210002305843014707215910",
+      "amt": "23.23",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "WAWA 118 DOWNINGTOWN PA",
+      "amt": "70.28",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "OLIVE GARDEN 0021857 DOWNINGTOWN PA",
+      "amt": "10.88",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-10-17",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "4.3",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2021-10-21",
+      "desc": "DOLLARTREE             EXTON         PA",
+      "amt": "1.06",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-21",
+      "desc": "PRODUCE JUNCTION EXTON- EXTON PA",
+      "amt": "3.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-25",
+      "desc": "DUNKIN #344280 Q35     CHESTER SPRIN PA",
+      "amt": "0.68",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-10-25",
+      "desc": "WAWA 118 DOWNINGTOWN PA",
+      "amt": "36.19",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-10-25",
+      "desc": "BRZ*BRADY ORTHODONTICS EXTON PA",
+      "amt": "1560",
+      "category": "RIYA BRACES"
+    },
+    {
+      "date": "2021-10-25",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "12.48",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-26",
+      "desc": "WEGMANS #050           DOWNINGTOWN   PA",
+      "amt": "35.4",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-27",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "3.52",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2021-10-28",
+      "desc": "PARTY CITY 1177 EXTON PA02819R",
+      "amt": "10.6",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-10-28",
+      "desc": "BHAVANI FOOD MARKET EXTON PAAPPLE PAY ENDING IN 7621",
+      "amt": "86.23",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-29",
+      "desc": "PRODUCE JUNCTION EXTON- EXTON PA",
+      "amt": "8.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-29",
+      "desc": "DUNKIN' MOBILE GP 800-447-0013 MAGOOGLE PAY ENDING IN 1206",
+      "amt": "10",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-10-29",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 7621",
+      "amt": "13.54",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-30",
+      "desc": "OLIVE GARDEN 0021857 DOWNINGTOWN PA",
+      "amt": "27.36",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-10-31",
+      "desc": "SQ *CHESTER SPRINGS CR CHESTER SPRINPAAPPLE PAY ENDING IN 76210001152921510730795126",
+      "amt": "18.14",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-31",
+      "desc": "HIMALAYAN INDIAN GROCERY EXTON PAAPPLE PAY ENDING IN 7621",
+      "amt": "66.42",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-31",
+      "desc": "BHAVANI FOOD MARKET EXTON PAAPPLE PAY ENDING IN 7621",
+      "amt": "50.42",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-10-31",
+      "desc": "BHAVANI FOOD MARKET EXTON PAAPPLE PAY ENDING IN 7621",
+      "amt": "10.43",
+      "category": "MISC SCHOOL"
+    },
+
+    {
+      "date": "2021-10-17",
+      "desc": "HOME DEPOT",
+      "amt": "39",
+      "category": "CC DEBT PAYMENT"
+    }
+  ],
+  "cash": {
+    "summary": [
+      { "desc": "TOTAL CASH AVL", "amt": 474.880929999981 },
+      { "desc": "TOTAL DEBT", "amt": 40630.35 },
+      { "desc": "NET WORTH", "amt": -397018.307743562 }
+    ],
+    "debts": [
+      {"desc": "CREDIT CARDS","amt" : 10821.7502486242},
+      { "desc": "HOME DEPOT", "amt": 3520.07 },
+      { "desc": "HONDA ODYSSEY", "amt": 3816.84975137579 },
+      { "desc": "HONDA CIVIC", "amt": 11636.68 },
+      { "desc": "GENERATOR", "amt": 10835 },
+      { "desc": "HELOC", "amt": 0 },
+      { "desc": "MORTGAGE", "amt": 356862.838673562 }
+    ]
+  }
+}

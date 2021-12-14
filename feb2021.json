@@ -1,0 +1,528 @@
+{
+  "summary": [
+    { "desc": "REGULAR MONTHLY EXPENSES", "amt": 4723.34 },
+    { "desc": "EXPENSES PAID BY CC", "amt": 1598.7794 },
+    { "desc": "DEBT PAYMENTS", "amt": 6093.82 },
+    { "desc": "TOTAL", "amt": 12415.9394 }
+  ],
+  "category": [
+    { "desc": "CC DEBT PAYMENT", "amt": 6093.82 },
+    { "desc": "MORTGAGE", "amt": 2347.89 },
+    { "desc": "AUTO PAYMENT", "amt": 782.2 },
+    { "desc": "HOUSE MAINTENANCE", "amt": 772.19 },
+    { "desc": "GROCERIES", "amt": 576.4294 },
+    { "desc": "ELECTRICITY", "amt": 315 },
+    { "desc": "KIDS ACTIVITIES", "amt": 220 },
+    { "desc": "INDIA PROPERTY TAXES", "amt": 210 },
+    { "desc": "LIFE INSURNACE", "amt": 169.79 },
+    { "desc": "CELL PHONE", "amt": 128.51 },
+    { "desc": "MISC", "amt": 115.3 },
+    { "desc": "UTILITIES", "amt": 110.97 },
+    { "desc": "HOA", "amt": 110 },
+    { "desc": "RESTAURANT", "amt": 87.33 },
+    { "desc": "HOUSEHOLD CONSUMMABLES", "amt": 70.61 },
+    { "desc": "ENTERTAINMENT", "amt": 68.99 },
+    { "desc": "FAST FOOD", "amt": 61.14 },
+    { "desc": "INTERNET", "amt": 59.99 },
+    { "desc": "AUTO GAS", "amt": 58.29 },
+    { "desc": "HOUSEHOLD SUPPLIES", "amt": 35.46 },
+    { "desc": "MEDICAL", "amt": 22.39 },
+    { "desc": "PHARMACY", "amt": 14.74 },
+    { "desc": "CLOTHES", "amt": 8.07 },
+    { "desc": "CHARITY", "amt": 1 },
+    { "desc": "REWARDS", "amt": -24.17 }
+  ],
+  "detail": [
+    {
+      "date": "2021-02-01",
+      "desc": "LAWN MOWING",
+      "amt": "200",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-02-02",
+      "desc": "VERIZON FIOS INTERNET",
+      "amt": "59.99",
+      "category": "INTERNET"
+    },
+    {
+      "date": "2021-02-02",
+      "desc": "HONDA ODYSSEY PAYMENT",
+      "amt": "546.33",
+      "category": "AUTO PAYMENT"
+    },
+    {
+      "date": "2021-02-03",
+      "desc": "HOA FEES",
+      "amt": "110",
+      "category": "HOA"
+    },
+    {
+      "date": "2021-02-03",
+      "desc": "YOUTUBE TV - TD CC",
+      "amt": "68.99",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2021-02-04",
+      "desc": "IPTV ($21.00 / 3-MON) * 2",
+      "amt": "0",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2021-02-10",
+      "desc": "CAR PAYMENT",
+      "amt": "235.87",
+      "category": "AUTO PAYMENT"
+    },
+    {
+      "date": "2021-02-10",
+      "desc": "AQUA PAYMENT",
+      "amt": "110.97",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-02-16",
+      "desc": "PECO",
+      "amt": "315",
+      "category": "ELECTRICITY"
+    },
+    {
+      "date": "2021-02-16",
+      "desc": "LIFE INSURANCE",
+      "amt": "107.36",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-02-16",
+      "desc": "LIFE INSURANCE",
+      "amt": "62.43",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-02-17",
+      "desc": "HOME MORTGAGE PAYMENT",
+      "amt": "2347.89",
+      "category": "MORTGAGE"
+    },
+    {
+      "date": "2021-02-18",
+      "desc": "VERIZON WIRELESS",
+      "amt": "128.51",
+      "category": "CELL PHONE"
+    },
+    {
+      "date": "2021-02-22",
+      "desc": "SHOP PROPERTY TAXES",
+      "amt": "210",
+      "category": "INDIA PROPERTY TAXES"
+    },
+    {
+      "date": "2021-02-25",
+      "desc": "LIFE INSURANCE - AIG [ANNUAL : $734.00/YR]",
+      "amt": "0",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2021-02-28",
+      "desc": "UTILITIES (SEWER) ($190.00 / QTR) [UUTMA]",
+      "amt": "0",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-02-28",
+      "desc": "UTILITIES (SEWER) ($309.00 / YR)",
+      "amt": "0",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2021-03-03",
+      "desc": "KUSHI'S PIANO LESSON",
+      "amt": "100",
+      "category": "KIDS ACTIVITIES"
+    },
+    {
+      "date": "2021-03-03",
+      "desc": "RIYA'S TUITION",
+      "amt": "120",
+      "category": "KIDS ACTIVITIES"
+    },
+
+    {
+      "date": "2021-02-03",
+      "desc": "STERIPOD CLIP-ON TOOTHBRUSH PROTECTOR, MULTICOLOR, 8 COUNT",
+      "amt": "17.38",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-02-04",
+      "desc": "3-D STICKERS FOR KIDS",
+      "amt": "5.49",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-02-27",
+      "desc": "FINDERS KEY PURSE ALEXX DRAGONFLY KEY FINDER [ORDER # 111-4568235-7497829]",
+      "amt": "9.19",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-02-06",
+      "desc": "GROCERIES",
+      "amt": "30.95",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-06",
+      "desc": "HOUSEHOLD CONSUMMABLES",
+      "amt": "14.49",
+      "category": "HOUSEHOLD CONSUMMABLES"
+    },
+    {
+      "date": "2021-02-06",
+      "desc": "HOUSEHOLD SUPPLIES",
+      "amt": "8.47",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-02-13",
+      "desc": "GROCERIES",
+      "amt": "52.13",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-20",
+      "desc": "GROCERIES",
+      "amt": "30.73",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-21",
+      "desc": "GROCERIES",
+      "amt": "7.49",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-27",
+      "desc": "HOUSEHOLD SUPPLIES",
+      "amt": "26.99",
+      "category": "HOUSEHOLD SUPPLIES"
+    },
+    {
+      "date": "2021-02-27",
+      "desc": "GROCERIES",
+      "amt": "15.55",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-05",
+      "desc": "LCA*LABCORP (LCBS) WEB 800-845-6167 NC",
+      "amt": "22.39",
+      "category": "MEDICAL"
+    },
+    {
+      "date": "2021-02-05",
+      "desc": "CALI PIZZA KITC INC #1 KING OF PRUSSPA",
+      "amt": "31.79",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-02-06",
+      "desc": "IN *TURTLE TECH INC. 215-6901195 PA",
+      "amt": "180",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-02-06",
+      "desc": "KFC K071089 EXTON PA",
+      "amt": "1.37",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-02-08",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "14",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-08",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "6.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-08",
+      "desc": "GIANT - GROCERIES",
+      "amt": "67.51",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-08",
+      "desc": "GIANT - HOUSE MAINTENANCE",
+      "amt": "6.8794",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-08",
+      "desc": "GIANT - GROCERIES",
+      "amt": "48.57",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-11",
+      "desc": "GIANT - HOUSEHOLD CONSUMMABLES",
+      "amt": "13.47",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-11",
+      "desc": "APNA BAZAR EXTON EXTON PA",
+      "amt": "56.12",
+      "category": "HOUSEHOLD CONSUMMABLES"
+    },
+    {
+      "date": "2021-02-11",
+      "desc": "ROSS STORES #224 EXTON PA",
+      "amt": "60.1",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-02-12",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "58.78",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-13",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "6",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-13",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "3.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-13",
+      "desc": "CVS PHARAMACY",
+      "amt": "14.74",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2021-02-13",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "11.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "INDIAN HUT",
+      "amt": "9.34",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "PAYPAL CHARITY",
+      "amt": "1",
+      "category": "CHARITY"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "BED BATH & BEYOND - VACCUUM CLEANER",
+      "amt": "296.79",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "APNA BAZAR EXTON EXTON PA",
+      "amt": "31.68",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "CHICK-FIL-A",
+      "amt": "8.2",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "A EAGLE OUTFTR00006502 MEMPHIS TN",
+      "amt": "53.9",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "MAGGIE MOOSE - ICECREAMS",
+      "amt": "17.13",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "WAWA",
+      "amt": "58.29",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "A EAGLE OUTFTR00006502 MEMPHIS TN",
+      "amt": "-45.83",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "DOLLAR TREE",
+      "amt": "7.42",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "WEGMANS'S",
+      "amt": "12.97",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "RAYOMOUR & FLANNIGS SOFA REPAIR",
+      "amt": "95.4",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2021-02-15",
+      "desc": "CALI PIZZA KITC INC #1 KING OF PRUSSPA",
+      "amt": "55.54",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2021-02-22",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "10",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-22",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "9.25",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-22",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "14.77",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-22",
+      "desc": "CASH REWARDS STATEMENT CREDIT",
+      "amt": "-24.17",
+      "category": "REWARDS"
+    },
+    {
+      "date": "2021-02-23",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "27.46",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-24",
+      "desc": "GIANT 6478 EXTON PA",
+      "amt": "9.68",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-24",
+      "desc": "WAWA 118 00001180 DOWNINGTOWN PA",
+      "amt": "2.19",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-02-24",
+      "desc": "USPS PO 4187120880 UWCHLAND PA",
+      "amt": "5.13",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-02-25",
+      "desc": "PRODUCE JUNCTION EXTON EXTON PA",
+      "amt": "27.25",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-27",
+      "desc": "APNA BAZAR EXTON EXTON PA",
+      "amt": "29.37",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-27",
+      "desc": "CHICK-FIL-A",
+      "amt": "11.54",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-02-27",
+      "desc": "WEGMANS'S",
+      "amt": "29.96",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2021-02-27",
+      "desc": "KFC K071089 EXTON PA",
+      "amt": "1.37",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2021-02-27",
+      "desc": "SPOTIFY",
+      "amt": "10.59",
+      "category": "MISC"
+    },
+    {
+      "date": "2021-02-27",
+      "desc": "DUNKIN DONUTS",
+      "amt": "10",
+      "category": "FAST FOOD"
+    },
+
+    {
+      "date": "2021-02-02",
+      "desc": "TARGET CARD PMT",
+      "amt": "132.76",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-02-09",
+      "desc": "LAVANYA CHASE SLATE",
+      "amt": "56",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-02-16",
+      "desc": "SEARS",
+      "amt": "5834",
+      "category": "CC DEBT PAYMENT"
+    },
+    {
+      "date": "2021-02-17",
+      "desc": "GREEN SKY WATER HEATER",
+      "amt": "71.06",
+      "category": "CC DEBT PAYMENT"
+    }
+  ],
+  "cash": {
+    "summary": [
+      { "desc": "TOTAL CASH AVL", "amt": 534.990729999987 },
+      { "desc": "TOTAL DEBT", "amt": 386526.438274494 },
+      { "desc": "NET WORTH", "amt": -385991.447544494 }
+    ],
+    "debts": [
+      { "desc": "CREDIT CARDS", "amt": 21541.2994 },
+      { "desc": "WATER HEATER", "amt": 1360.76 },
+      { "desc": "HOME DEPOT", "amt": 0 },
+      { "desc": "HONDA ODYSSEY", "amt": 8152.26 },
+      { "desc": "HELOC", "amt": 265 },
+      { "desc": "MORTGAGE", "amt": 355207.118874494 }
+    ]
+  }
+}
