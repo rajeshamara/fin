@@ -111,7 +111,6 @@
         }
     </style>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="data/js/nov2021.js"></script>
     <script>
         // Create our number formatter.
         var data = {};
@@ -130,7 +129,7 @@
         function LoadData()
         {
             var arrayHTML = [];
-            arrayHTML.push(GenerateImageHTML(0,10,2021,2021));
+            arrayHTML.push(GenerateImageHTML(0,11,2021,2021));
             arrayHTML.push(GenerateImageHTML(11,11,2020,2020));
             $("#months").html(arrayHTML.join(""));
             var url = new URL(window.location.href);
@@ -142,10 +141,16 @@
             else
             {
                 var date = new Date();
+                let currMonth = date.getMonth() - 1;
+                let currYear = date.getFullYear();
                 console.log(date);
-                console.log(date.getMonth());
-                console.log(date.getFullYear())
-                month = `${months[date.getMonth() - 1]} ${date.getFullYear()}`;
+                if(currMonth < 0){
+                    currMonth = 12 + currMonth;
+                    currYear--;
+                }
+                console.log(currMonth);
+                console.log(currYear);
+                month = `${months[currMonth]} ${currYear}`;
             }
             if(month != ""){
                 loadMonthExpenseDetails(month);
