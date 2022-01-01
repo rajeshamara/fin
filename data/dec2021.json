@@ -1,9 +1,9 @@
 {
   "summary": [
-    { "desc": "REGULAR MONTHLY EXPENSES", "amt": 11543.28 },
+    { "desc": "REGULAR MONTHLY EXPENSES", "amt": 11647.9 },
     { "desc": "EXPENSES PAID BY CC", "amt": 4614.1 },
     { "desc": "CC PAYMENTS", "amt": 39 },
-    { "desc": "TOTAL", "amt": 16196.38 }
+    { "desc": "TOTAL", "amt": 16301 }
   ],
   "category": [
     { "desc": "KIDS 529", "amt": 5050 },
@@ -13,9 +13,9 @@
     { "desc": "GROCERIES", "amt": 749.04 },
     { "desc": "UTILITIES", "amt": 651.6 },
     { "desc": "CERTIFICATION", "amt": 607.34 },
-    { "desc": "CLOTHES", "amt": 412.72 },
+    { "desc": "CLOTHES", "amt": 517.34 },
     { "desc": "FAST FOOD", "amt": 365.49 },
-    { "desc": "MISC", "amt": 268.36 },
+    { "desc": "MISC", "amt": 289.55 },
     { "desc": "ENTERTAINMENT", "amt": 254.1 },
     { "desc": "AUTO PAYMENT", "amt": 231.73 },
     { "desc": "AUTO GAS", "amt": 213.37 },
@@ -30,7 +30,6 @@
     { "desc": "RESTAURANT", "amt": 47.09 },
     { "desc": "CC DEBT PAYMENT", "amt": 39 },
     { "desc": "INTERNET", "amt": 31.89 },
-    { "desc": "BOOKS", "amt": 21.19 },
     { "desc": "LOTTERY", "amt": 18 },
     { "desc": "KIDS ACTIVITIES", "amt": 13 },
     { "desc": "GROOMING", "amt": 8.54 }
