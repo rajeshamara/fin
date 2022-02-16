@@ -1,0 +1,589 @@
+{
+  "summary": [
+    { "desc": "REGULAR MONTHLY EXPENSES", "amt": 4630.13 },
+    { "desc": "EXPENSES PAID BY CC", "amt": 3716.3032 },
+    { "desc": "CC PAYMENTS", "amt": 39 },
+    { "desc": "TOTAL", "amt": 8385.4332 }
+  ],
+  "category": [
+    { "desc": "MORTGAGE", "amt": 3443.21 },
+    { "desc": "AUTO INSURANCE", "amt": 1216.77 },
+    { "desc": "GROCERIES", "amt": 756.59 },
+    { "desc": "MEDICAL", "amt": 650 },
+    { "desc": "UTILITIES", "amt": 429.76 },
+    { "desc": "KUSHI COLLEGE", "amt": 278 },
+    { "desc": "AUTO PAYMENT", "amt": 231.73 },
+    { "desc": "FAST FOOD", "amt": 218.78 },
+    { "desc": "LIFE INSURNACE", "amt": 169.79 },
+    { "desc": "AUTO GAS", "amt": 155.78 },
+    { "desc": "CELL PHONE", "amt": 146.45 },
+    { "desc": "HOUSE MAINTENANCE", "amt": 132.857 },
+    { "desc": "AUTO MAINTENANCE", "amt": 115.04 },
+    { "desc": "RESTAURANT", "amt": 98.95 },
+    { "desc": "CLOTHES", "amt": 74.05 },
+    { "desc": "ENTERTAINMENT", "amt": 68.89 },
+    { "desc": "MISC", "amt": 66.1574 },
+    { "desc": "KIDS 529", "amt": 50 },
+    { "desc": "PHARMACY", "amt": 49.89 },
+    { "desc": "CC DEBT PAYMENT", "amt": 39 },
+    { "desc": "HEALTH", "amt": 35.49 },
+    { "desc": "INTERNET", "amt": 29.99 },
+    { "desc": "LOTTERY", "amt": 8 },
+    { "desc": "BOOKS", "amt": 7.9288 },
+    { "desc": "STMT REWARDS", "amt": -87.67 }
+  ],
+  "detail": [
+    {
+      "date": "2022-01-01",
+      "desc": "LOTTERY",
+      "amt": "8",
+      "category": "LOTTERY"
+    },
+    {
+      "date": "2022-01-01",
+      "desc": "VERIZON FIOS PMT",
+      "amt": "29.99",
+      "category": "INTERNET"
+    },
+    {
+      "date": "2022-01-01",
+      "desc": "YOUTUBE TV",
+      "amt": "68.89",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2022-01-01",
+      "desc": "KIDS 529",
+      "amt": "50",
+      "category": "KIDS 529"
+    },
+    { "date": "2022-01-10", "desc": "HOA FEES", "amt": "0", "category": "HOA" },
+    {
+      "date": "2022-01-10",
+      "desc": "HONDA CIVIC CAR PMT",
+      "amt": "231.73",
+      "category": "AUTO PAYMENT"
+    },
+    {
+      "date": "2022-01-10",
+      "desc": "AQUA PMT",
+      "amt": "107.76",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2022-01-02",
+      "desc": "TARGET CARD PMT [PAID IN NOV]",
+      "amt": "52.31",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2022-01-16",
+      "desc": "PECO PMT",
+      "amt": "322",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2022-01-16",
+      "desc": "LIFE INSURANCE",
+      "amt": "107.36",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2022-01-16",
+      "desc": "LIFE INSURANCE",
+      "amt": "62.43",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2022-01-17",
+      "desc": "PRIMARY MORTGAGE PMT",
+      "amt": "3443.21",
+      "category": "MORTGAGE"
+    },
+    {
+      "date": "2022-01-18",
+      "desc": "VERIZON WIRELESS",
+      "amt": "146.45",
+      "category": "CELL PHONE"
+    },
+    {
+      "date": "2022-01-06",
+      "desc": "1984 GEORGE ORWELL BOOK [ORDER # 114-8310833-0101049]",
+      "amt": "7.9288",
+      "category": "BOOKS"
+    },
+    {
+      "date": "2022-01-06",
+      "desc": "10 PCS DIYA SET [ORDER # 114-8310833-0101049]",
+      "amt": "22.5674",
+      "category": "MISC"
+    },
+    {
+      "date": "2022-01-09",
+      "desc": "KIDS VITAMINS [ORDER # 114-0122102-9843458]",
+      "amt": "26.95",
+      "category": "HEALTH"
+    },
+    {
+      "date": "2022-01-09",
+      "desc": "WAX STRIPS [ORDER # 113-9918855-1889039]",
+      "amt": "8.54",
+      "category": "HEALTH"
+    },
+    {
+      "date": "2022-01-10",
+      "desc": "MEMORY FOAM BATH RUG - 3 [ORDER # 112-3693864-3961042]",
+      "amt": "32.4042",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2022-01-10",
+      "desc": "SHOWER CURTTAIN [ORDER # 112-3693864-3961042]",
+      "amt": "13.7694",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2022-01-20",
+      "desc": "WOOD SHEETS [ORDER # 112-2325082-3604227]",
+      "amt": "5.9",
+      "category": "MISC"
+    },
+    {
+      "date": "2022-01-22",
+      "desc": "MECHANICAL PENCILS [ORDER # 114-0696247-0497838]",
+      "amt": "8.46",
+      "category": "MISC"
+    },
+    {
+      "date": "2022-01-22",
+      "desc": "CAST IRON GIRDLE [ORDER # 114-5831436-7021806]",
+      "amt": "18.974",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2022-01-22",
+      "desc": "WINTER HAT[ORDER # 114-5831436-7021806]",
+      "amt": "13.99",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2022-01-22",
+      "desc": "PAN SCRAPERS [ORDER # 114-5831436-7021806]",
+      "amt": "3.1694",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2022-01-01",
+      "desc": "BJ'S GROCERIES",
+      "amt": "25.44",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-15",
+      "desc": "BJ'S GROCERIES",
+      "amt": "97.02",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-22",
+      "desc": "BJ'S GROCERIES",
+      "amt": "25.22",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-30",
+      "desc": "BJ'S GROCERIES",
+      "amt": "79.53",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-01",
+      "desc": "THE HOME DEPOT #4137 DOWNINGTOWN PA",
+      "amt": "64.54",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2022-01-01",
+      "desc": "STARBUCKS 800-782-7282 800-782-7282 WAAPPLE PAY ENDING IN 49227FVEZSTKISQZE8YD",
+      "amt": "20",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-01",
+      "desc": "GIANT 6478 EXTON PAGOOGLE PAY ENDING IN 120600177R",
+      "amt": "23.18",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-01",
+      "desc": "EXXONMOBIL EXTON PA",
+      "amt": "35.39",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2022-01-01",
+      "desc": "BAWARCHI BIRYANIS MALVERN PA",
+      "amt": "49.75",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2022-01-02",
+      "desc": "WAWA 201 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "3.73",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-02",
+      "desc": "GIANT 6478 EXTON PAGOOGLE PAY ENDING IN 120600265R",
+      "amt": "9.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-02",
+      "desc": "CHIPOTLE 1550 EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "9.12",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-02",
+      "desc": "AE OUTF ONL00029538919 OTTAWA KS",
+      "amt": "13.85",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2022-01-03",
+      "desc": "FAST FOOD AT SCOTT HONDA - SQ *CRAIG SCOTT, INC. WEST CHESTER PAGOOGLE PAY ENDING IN 12060002305843015037650153",
+      "amt": "6.31",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-03",
+      "desc": "FAST FOOD AT SCOTT HONDA - SQ *CRAIG SCOTT, INC. WEST CHESTER PAGOOGLE PAY ENDING IN 12060002305843015037635453",
+      "amt": "3.06",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-03",
+      "desc": "SCOTT HONDA OF WEST CHES WEST CHESTER PA",
+      "amt": "115.04",
+      "category": "AUTO MAINTENANCE"
+    },
+    {
+      "date": "2022-01-03",
+      "desc": "OLIVE GARDEN 0021857 DOWNINGTOWN PA",
+      "amt": "12.71",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2022-01-03",
+      "desc": "GOOGLE *PLAY G.CO/HELPPAY#CAP0GKZASG - PUBLISH ANDRIOD APPS",
+      "amt": "25",
+      "category": "MISC"
+    },
+    {
+      "date": "2022-01-03",
+      "desc": "CORNELL UNIV 800-339-8131 CT",
+      "amt": "80",
+      "category": "KUSHI COLLEGE"
+    },
+    {
+      "date": "2022-01-03",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "10.17",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-04",
+      "desc": "GENETWORX.COM 6107261205 VA",
+      "amt": "225",
+      "category": "MEDICAL"
+    },
+    {
+      "date": "2022-01-04",
+      "desc": "GENETWORX.COM 6107261205 VA",
+      "amt": "225",
+      "category": "MEDICAL"
+    },
+    {
+      "date": "2022-01-04",
+      "desc": "GENETWORX.COM 6107261205 VA",
+      "amt": "200",
+      "category": "MEDICAL"
+    },
+    {
+      "date": "2022-01-04",
+      "desc": "CARNEGIE MELLON UNI 800-339-8131 CT",
+      "amt": "75",
+      "category": "KUSHI COLLEGE"
+    },
+    {
+      "date": "2022-01-06",
+      "desc": "UNIV OF PENNSYLVANI 800-339-8131 CT",
+      "amt": "75",
+      "category": "KUSHI COLLEGE"
+    },
+    {
+      "date": "2022-01-06",
+      "desc": "COLLEGEBOARD*PROFILE 305-829-9793 NYCOLLEGEBOARD*PROFILE",
+      "amt": "48",
+      "category": "KUSHI COLLEGE"
+    },
+    {
+      "date": "2022-01-07",
+      "desc": "SQ *INDIAN HUT EXTON EXTON PAGOOGLE PAY ENDING IN 12060002305843015052688657",
+      "amt": "9.53",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-07",
+      "desc": "ON THE BORDER EXTON 19 EXTON PA",
+      "amt": "36.49",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2022-01-09",
+      "desc": "GIANT 6478 EXTON PAGOOGLE PAY ENDING IN 120600940R",
+      "amt": "18.19",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-09",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "34.29",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-11",
+      "desc": "NORTHFACE VF OUTDOOR 888-863-1968 WI58386586",
+      "amt": "63.4",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2022-01-11",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 5714",
+      "amt": "10",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2022-01-11",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 5714",
+      "amt": "8.27",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2022-01-12",
+      "desc": "WAWA 201 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "55.52",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2022-01-12",
+      "desc": "MAGGIE MOOS EXTON EXTON PAAPPLE PAY ENDING IN 5714",
+      "amt": "12.77",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-13",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "32.79",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-15",
+      "desc": "STARBUCKS 800-782-7282 800-782-7282 WAAPPLE PAY ENDING IN 57142ZPOFANRGCVWJNJH",
+      "amt": "25",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-15",
+      "desc": "PRODUCE JUNCTION EXTON- EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "23.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-15",
+      "desc": "GIANT 6478 EXTON PA01547R",
+      "amt": "15.19",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-15",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "45.39",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-15",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "5.3",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-16",
+      "desc": "SQ *INDIAN HUT EXTON EXTON PAGOOGLE PAY ENDING IN 12060002305843015083806026",
+      "amt": "14.64",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-16",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 5714",
+      "amt": "30.29",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2022-01-16",
+      "desc": "CALIFORNIA TORTILLA 77 EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "23.67",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-20",
+      "desc": "ROYAL FARMS #225 DOWNINGTOWN PAGOOGLE PAY ENDING IN 1206",
+      "amt": "36.06",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-22",
+      "desc": "THE NORTH FACE #29 KING OF PRUSSPA1669",
+      "amt": "-69.5",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2022-01-22",
+      "desc": "WAWA 118 DOWNINGTOWN PAGOOGLE PAY ENDING IN 1206",
+      "amt": "64.87",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2022-01-22",
+      "desc": "PRODUCE JUNCTION EXTON- EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "24.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-22",
+      "desc": "GIANT 6478 EXTON PAGOOGLE PAY ENDING IN 120602240R",
+      "amt": "34.54",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-22",
+      "desc": "DUTCHYFRIES WILLOW GROVE PAGOOGLE PAY ENDING IN 1206",
+      "amt": "6.31",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-22",
+      "desc": "CHICKFILA APP 8662322040 866-232-2040 GA",
+      "amt": "25",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-23",
+      "desc": "MARSHALLS #0326 EXTON PAAPPLE PAY ENDING IN 4922",
+      "amt": "4.23",
+      "category": "MISC"
+    },
+    {
+      "date": "2022-01-23",
+      "desc": "CHIPOTLE 1550 EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "9.12",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-23",
+      "desc": "BHAVANI FOOD MARKET EXTON PAAPPLE PAY ENDING IN 4922",
+      "amt": "119.09",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-23",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 4922",
+      "amt": "16.67",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-23",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "12.7",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-24",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 4922",
+      "amt": "1.33",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2022-01-25",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 5714",
+      "amt": "8.93",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-27",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 5714",
+      "amt": "7.23",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-28",
+      "desc": "CHICK-FIL-A #01527 EXTON PA",
+      "amt": "6.51",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-28",
+      "desc": "AUTOMATIC STATEMENT CREDIT",
+      "amt": "-87.67",
+      "category": "STMT REWARDS"
+    },
+    {
+      "date": "2022-01-29",
+      "desc": "STARBUCKS 800-782-7282 800-782-7282 WAAPPLE PAY ENDING IN 5714EIZGUQVR2BFF9WEL",
+      "amt": "25",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-29",
+      "desc": "CALIFORNIA TORTILLA 77 EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "19.01",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2022-01-30",
+      "desc": "GIANT 6478 EXTON PAGOOGLE PAY ENDING IN 120603061R",
+      "amt": "33.6",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2022-01-30",
+      "desc": "GEICO *AUTO 800-841-3000 DC4527285581220130120316",
+      "amt": "1216.77",
+      "category": "AUTO INSURANCE"
+    },
+    {
+      "date": "2022-01-30",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "18.08",
+      "category": "GROCERIES"
+    },
+    { "date": "2022-01-17", "desc": "HOME DEPOT", "amt": "39", "category": "0" }
+  ],
+  "cash": {
+    "summary": [
+      { "desc": "TOTAL CASH AVL", "amt": 536.100929999982 },
+      { "desc": "TOTAL DEBT", "amt": 40867.08824944 },
+      { "desc": "NET WORTH", "amt": -392029.312115218 }
+    ],
+    "debts": [
+      { "desc": "CREDIT CARDS", "amt": 14814.1655919824 },
+      { "desc": "HOME DEPOT", "amt": 3414.07 },
+      { "desc": "HONDA ODYSSEY", "amt": 2185.14265745759 },
+      { "desc": "HONDA CIVIC", "amt": 11034.41 },
+      { "desc": "DR.BRADYS", "amt": 1734.3 },
+      { "desc": "GENERATOR", "amt": 7685 },
+      { "desc": "MORTGAGE", "amt": 351698.324795778 }
+    ]
+  }
+}
