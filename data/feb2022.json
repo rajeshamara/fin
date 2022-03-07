@@ -760,7 +760,8 @@
       { "desc": "HONDA ODYSSEY", "amt": 1640.43330492853 },
       { "desc": "HONDA CIVIC", "amt": 10832.56 },
       { "desc": "DR.BRADYS", "amt": 1637.95 },
-      { "desc": "GENERATOR", "amt": 5935 }
+      { "desc": "GENERATOR", "amt": 5935 },    
+      {"desc": "MORTGAGE","amt" : 349970.724795778}
     ]
   }
 }
