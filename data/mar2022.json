@@ -1,0 +1,891 @@
+{
+  "summary": [
+    { "desc": "REGULAR MONTHLY EXPENSES", "amt": 6686.14 },
+    { "desc": "EXPENSES PAID BY CC", "amt": 4789.51 },
+    { "desc": "CC PAYMENTS", "amt": 34 },
+    { "desc": "TOTAL", "amt": 11509.65 }
+  ],
+  "category": [
+    { "desc": "MORTGAGE", "amt": 3443.21 },
+    { "desc": "HOUSE MAINTENANCE", "amt": 3908.94 },
+    { "desc": "GROCERIES", "amt": 776.17 },
+    { "desc": "UTILITIES", "amt": 732.59 },
+    { "desc": "MISC-PERSONAL", "amt": 336.93 },
+    { "desc": "RESTAURANT", "amt": 280.44 },
+    { "desc": "FAST FOOD", "amt": 248.21 },
+    { "desc": "AUTO GAS", "amt": 246.35 },
+    { "desc": "AUTO PAYMENT", "amt": 231.73 },
+    { "desc": "ENTERTAINMENT", "amt": 196.29 },
+    { "desc": "LIFE INSURNACE", "amt": 169.79 },
+    { "desc": "CLOTHES", "amt": 115.3 },
+    { "desc": "CELL PHONE", "amt": 145.85 },
+    { "desc": "MISC", "amt": 141.07 },
+    { "desc": "PHARMACY", "amt": 110.81 },
+    { "desc": "HOA", "amt": 110 },
+    { "desc": "TOLLS", "amt": 105 },
+    { "desc": "HEALTH", "amt": 64.93 },
+    { "desc": "KIDS 529", "amt": 50 },
+    { "desc": "CC DEBT PAYMENT", "amt": 34 },
+    { "desc": "KITCHEN", "amt": 24.14 },
+    { "desc": "INTERNET", "amt": 14.09 },
+    { "desc": "GROOMING", "amt": 13.49 },
+    { "desc": "AUTO MATINENANCE", "amt": 12.72 },
+    { "desc": "LOTTERY", "amt": 8 },
+    { "desc": "STMT REWARDS", "amt": -44.4 }
+  ],
+  "detail": [
+    {
+      "date": "2020-03-01",
+      "desc": "LOTTERY",
+      "amt": "8",
+      "category": "LOTTERY"
+    },
+    {
+      "date": "2020-03-01",
+      "desc": "VERIZON FIOS PMT",
+      "amt": "14.09",
+      "category": "INTERNET"
+    },
+    {
+      "date": "2020-03-01",
+      "desc": "YOUTUBE TV",
+      "amt": "68.89",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2020-03-01",
+      "desc": "KIDS 529",
+      "amt": "50",
+      "category": "KIDS 529"
+    },
+    {
+      "date": "2020-03-02",
+      "desc": "TARGET CARD PMT [PAID IN FEB]",
+      "amt": "15.87",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2020-03-02",
+      "desc": "0",
+      "amt": "76.12",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2020-03-10",
+      "desc": "HOA FEES",
+      "amt": "110",
+      "category": "HOA"
+    },
+    {
+      "date": "2020-03-10",
+      "desc": "AQUA PMT",
+      "amt": "101.89",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2020-03-16",
+      "desc": "HONDA CIVIC CAR PMT",
+      "amt": "231.73",
+      "category": "AUTO PAYMENT"
+    },
+    {
+      "date": "2020-03-16",
+      "desc": "PECO PMT",
+      "amt": "322",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2020-03-16",
+      "desc": "LIFE INSURANCE",
+      "amt": "107.36",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2020-03-16",
+      "desc": "LIFE INSURANCE",
+      "amt": "62.43",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2020-03-17",
+      "desc": "PRIMARY MORTGAGE PMT",
+      "amt": "3443.21",
+      "category": "MORTGAGE"
+    },
+    {
+      "date": "2020-03-18",
+      "desc": "VERIZON WIRELESS",
+      "amt": "145.85",
+      "category": "CELL PHONE"
+    },
+    {
+      "date": "2020-03-25",
+      "desc": "UTILITIES (SEWER) ($190.00 / QTR) [UUTMA]",
+      "amt": "0",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2020-03-28",
+      "desc": "UTILITIES (SEWER) ($308.70 / YR)",
+      "amt": "308.7",
+      "category": "UTILITIES"
+    },
+    {
+      "date": "2020-03-25",
+      "desc": "LIFE INSURANCE - AIG [ANNUAL : $734.00/YR]",
+      "amt": "0",
+      "category": "LIFE INSURNACE"
+    },
+    {
+      "date": "2020-03-18",
+      "desc": "SUMP PUMP MAITENANCE - MOSTAFA",
+      "amt": "120",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2020-03-31",
+      "desc": "NEW DISCHARGE LINES - MOSTAFA",
+      "amt": "1500",
+      "category": "HOUSE MAINTENANCE"
+    },
+
+    {
+      "date": "2020-03-05",
+      "desc": "EUDAX 6 set Rectangular Mini Electric 1.5-3V 24000RPM DC Motor with 84 Pcs Plastic Gears,Electronic wire, 2 x AA Battery Holder ,Boat Rocker Switch,Shaft Propeller for DIY Science Projects [ORDER # 114-9928730-3789838]",
+      "amt": "13.77",
+      "category": "MISC-PERSONAL"
+    },
+    {
+      "date": "2020-03-08",
+      "desc": "KIDS VITAMINS [ORDER # 112-3245937-5488258]",
+      "amt": "26.95",
+      "category": "HEALTH"
+    },
+    {
+      "date": "2020-03-08",
+      "desc": "Nature's Way NutraVege Omega-3 [ORDER # 112-6969823-9353829]",
+      "amt": "37.98",
+      "category": "HEALTH"
+    },
+    {
+      "date": "2020-03-08",
+      "desc": "Grab Green Garbage Disposal Freshener and Cleaner Pods, 48 Count [ORDER # 112-5118262-6549833]",
+      "amt": "15.91",
+      "category": "KITCHEN"
+    },
+    {
+      "date": "2020-03-09",
+      "desc": "KITCHEN SCALE [ORDER # 111-2853479-3350609]",
+      "amt": "11.44",
+      "category": "MISC-PERSONAL"
+    },
+    {
+      "date": "2020-03-09",
+      "desc": "Evelots Stove Counter Gap Filler-Spill/Crump Guard-Heat Resistant-21 Inch-Set/2 [ORDER # 114-6781713-5610616] - RETURNED",
+      "amt": "8.23",
+      "category": "KITCHEN"
+    },
+    {
+      "date": "2020-03-09",
+      "desc": "Wecolor 100 PCS Disposable 3 Ply Earloop Face Masks [ORDER # 114-6781713-5610616]",
+      "amt": "9.58",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-10",
+      "desc": "DIGITAL VOLTMETER [ORDER # 112-8607467-5544207]",
+      "amt": "8.46",
+      "category": "MISC-PERSONAL"
+    },
+    {
+      "date": "2020-03-11",
+      "desc": "Mornajina 6Pcs Dry Erase to Do List 5x7 inch, Whiteboard Stickers for Wall [ORDER # 112-3664068-7626663]",
+      "amt": "14.41",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-14",
+      "desc": "SD CARDS [ORDER # 112-1847866-7329050]",
+      "amt": "2.12",
+      "category": "MISC-PERSONAL"
+    },
+    {
+      "date": "2020-03-15",
+      "desc": "MAC BOOK CHARGER [ORDER # 112-9604710-1659466]",
+      "amt": "15.25",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-16",
+      "desc": "8 MM SPRINGS [ORDER # 111-8868053-1199419]",
+      "amt": "9.52",
+      "category": "MISC-PERSONAL"
+    },
+    {
+      "date": "2020-03-16",
+      "desc": "3D PRINTER NOZZLE CLEANER SET [ORDER # 111-0314428-2381060]",
+      "amt": "7.09",
+      "category": "MISC-PERSONAL"
+    },
+    {
+      "date": "2020-03-17",
+      "desc": "ALCOHOL PADS [ORDER # 111-3248275-7746609]",
+      "amt": "4.86",
+      "category": "MISC-PERSONAL"
+    },
+    {
+      "date": "2020-03-23",
+      "desc": "Epic Professional Quick Dry Hair Brush (Black) [ORDER # 112-9938965-0543444]",
+      "amt": "20.62",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-24",
+      "desc": "USB-C CABLES [ORDER # 114-9519392-0581062]",
+      "amt": "10.59",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-30",
+      "desc": "6 Pack Square Claw Clips [ORDER # 114-9657848-2414622]",
+      "amt": "10.48",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-30",
+      "desc": "KIDS FACE MASK [ORDER # 112-2585862-5234668]",
+      "amt": "9.99",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-30",
+      "desc": "MULTI PURPOSE CABLE TIES [ORDER # 111-8479337-7755419] - RETURNED",
+      "amt": "4.97",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2020-03-31",
+      "desc": "STYLUS PENS [ORDER # 114-3708636-1586606]",
+      "amt": "12.71",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-05",
+      "desc": "BJ'S GROCERIES",
+      "amt": "42.5",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "DAIRY QUEEN",
+      "amt": "2.5",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-12",
+      "desc": "BJ'S GROCERIES",
+      "amt": "26.4",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-19",
+      "desc": "BJ'S GROCERIES",
+      "amt": "10.45",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-20",
+      "desc": "BJ'S GROCERIES",
+      "amt": "44.51",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-27",
+      "desc": "BJ'S GROCERIES",
+      "amt": "60.44",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-02",
+      "desc": "3D PRINTER",
+      "amt": "262",
+      "category": "MISC-PERSONAL"
+    },
+    {
+      "date": "2020-03-03",
+      "desc": "3D PRINTER - FILAMENT",
+      "amt": "17.67",
+      "category": "MISC-PERSONAL"
+    },
+    {
+      "date": "2020-03-12",
+      "desc": "1 HP SUMP PUMP",
+      "amt": "237.44",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "COOKING RANGE",
+      "amt": "1614.95",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2020-03-22",
+      "desc": "DAIRY QUEEN",
+      "amt": "5.9",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-02",
+      "desc": "ON THE BORDER EXTON 19 EXTON PA",
+      "amt": "18.31",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2020-03-02",
+      "desc": "CHICKFILA APP 8662322040 866-232-2040 GA",
+      "amt": "25",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-03",
+      "desc": "BAWARCHI BIRYANIS MALVERN PA",
+      "amt": "47.1",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2020-03-04",
+      "desc": "CHIPOTLE 1550 EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "9.12",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-05",
+      "desc": "GIANT 6478 EXTON PAGOOGLE PAY ENDING IN 120600509R",
+      "amt": "52.92",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-05",
+      "desc": "BHAVANI FOOD MARKET EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "31.94",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-05",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "23.27",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-05",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "11.67",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "MAGGIE MOOS EXTON EXTON PAAPPLE PAY ENDING IN 5714",
+      "amt": "6.97",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "KOHL'S #0277 EXTON PAAPPLE PAY ENDING IN 4922",
+      "amt": "28.62",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "EXXONMOBIL EXTON PA",
+      "amt": "84.11",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "DUNKIN' MOBILE GP 800-447-0013 MAGOOGLE PAY ENDING IN 1206",
+      "amt": "10",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 4922",
+      "amt": "21.59",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 5714",
+      "amt": "21.29",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 5714",
+      "amt": "10",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "BHAVANI FOOD MARKET EXTON PAAPPLE PAY ENDING IN 4922",
+      "amt": "59.05",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 5714",
+      "amt": "6.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-06",
+      "desc": "8601 GREAT CLIPS OF SHOP EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "13.49",
+      "category": "GROOMING"
+    },
+    {
+      "date": "2020-03-07",
+      "desc": "TARGET 00024968091 EXTON PAAPPLE PAY ENDING IN 4922",
+      "amt": "4.2",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-07",
+      "desc": "PTC EZPASS CSC WEB IVR 877-736-6727 PA",
+      "amt": "105",
+      "category": "TOLLS"
+    },
+    {
+      "date": "2020-03-08",
+      "desc": "WAWA 201 CHESTER SPRINPA",
+      "amt": "44.66",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2020-03-08",
+      "desc": "STARBUCKS 800-782-7282 800-782-7282 WAAPPLE PAY ENDING IN 5714XZHOTTBWGRW4FT32",
+      "amt": "25",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-08",
+      "desc": "SQ *TWIN VALLEY COFFEE EXTON PAAPPLE PAY ENDING IN 57140002305843015289000026",
+      "amt": "7.89",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-08",
+      "desc": "SPOTIFY P1A35C6319 8777781161 NY",
+      "amt": "10.59",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2020-03-08",
+      "desc": "CALI PIZZA KITC INC #116 KING OF PRUSSPAGOOGLE PAY ENDING IN 1206",
+      "amt": "46.83",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2020-03-09",
+      "desc": "HIMALAYAN INDIAN GROCERY EXTON PAAPPLE PAY ENDING IN 4922",
+      "amt": "30.35",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-09",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 4922",
+      "amt": "33.68",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-10",
+      "desc": "CINNABON #102853 KING OF PRUSSPAAPPLE PAY ENDING IN 5714",
+      "amt": "3.93",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-11",
+      "desc": "SQ *TWIN VALLEY COFFEE EXTON PAAPPLE PAY ENDING IN 57140001152921511162843492",
+      "amt": "6.25",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-11",
+      "desc": "ROTO-ROOTER 10075 NEWARK DE",
+      "amt": "400",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2020-03-11",
+      "desc": "CALIFORNIA TORTILLA 77 EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "19.01",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-12",
+      "desc": "RITA'S WATER ICE UWCHLAN PA",
+      "amt": "3.17",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-12",
+      "desc": "RITA'S WATER ICE UWCHLAN PA",
+      "amt": "3.16",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-12",
+      "desc": "PRODUCE JUNCTION EXTON- EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "9",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-12",
+      "desc": "GIANT 6478 EXTON PAGOOGLE PAY ENDING IN 120601296R",
+      "amt": "27.52",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-12",
+      "desc": "AUTOZONE 6794 EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "8.47",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-12",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "9.57",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-12",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "3.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-13",
+      "desc": "STARBUCKS 800-782-7282 800-782-7282 WAAPPLE PAY ENDING IN 57141ZD7LYOZEOEYIVSR",
+      "amt": "25",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-14",
+      "desc": "OLIVE GARDEN 0021857 DOWNINGTOWN PA",
+      "amt": "28.42",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2020-03-14",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 4922",
+      "amt": "31",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2020-03-15",
+      "desc": "SQ *TWIN VALLEY COFFEE EXTON PAAPPLE PAY ENDING IN 57140002305843015322703600",
+      "amt": "6.25",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-15",
+      "desc": "JOANN STORES #2078 DOWNINGTOWN PA",
+      "amt": "13.63",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-15",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "7.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-16",
+      "desc": "WAWA 201 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "36.57",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2020-03-16",
+      "desc": "CHIPOTLE 1550 EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "9.12",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-17",
+      "desc": "JOANN STORES #2078 DOWNINGTOWN PA",
+      "amt": "7.93",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-19",
+      "desc": "WHITE GLOVE CAR WASH EXT EXTON PA",
+      "amt": "12.72",
+      "category": "AUTO MATINENANCE"
+    },
+    {
+      "date": "2020-03-19",
+      "desc": "THE HOME DEPOT #4137 DOWNINGTOWN PA",
+      "amt": "2.88",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2020-03-19",
+      "desc": "SQ *INDIAN HUT EXTON EXTON PAGOOGLE PAY ENDING IN 12060002305843015346319993",
+      "amt": "45.52",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2020-03-19",
+      "desc": "ON THE BORDER EXTON 19 EXTON PA",
+      "amt": "17.23",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2020-03-19",
+      "desc": "CHICKFILA APP 8662322040 866-232-2040 GA",
+      "amt": "25",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-19",
+      "desc": "BHAVANI FOOD MARKET EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "13.99",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-19",
+      "desc": "ACME 0703 CHESTER SPRINPA",
+      "amt": "5.3",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-20",
+      "desc": "THE HOME DEPOT #4137 DOWNINGTOWN PA",
+      "amt": "5.98",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2020-03-20",
+      "desc": "STARBUCKS 800-782-7282 800-782-7282 WAAPPLE PAY ENDING IN 4922N6XSTFEOLUJKANIF",
+      "amt": "25",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-20",
+      "desc": "GIANT 6478 EXTON PAGOOGLE PAY ENDING IN 120602028R",
+      "amt": "56.07",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-20",
+      "desc": "BHAVANI FOOD MARKET EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "9.82",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-20",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "13.2",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-23",
+      "desc": "WAWA 201 CHESTER SPRINPAAPPLE PAY ENDING IN 5714",
+      "amt": "27.41",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2020-03-23",
+      "desc": "WAWA 201 CHESTER SPRINPAAPPLE PAY ENDING IN 5714",
+      "amt": "14.93",
+      "category": "AUTO GAS"
+    },
+    {
+      "date": "2020-03-23",
+      "desc": "TARGET 00024968091 EXTON PAAPPLE PAY ENDING IN 5714",
+      "amt": "12.26",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-23",
+      "desc": "TARGET 00024968091 EXTON PAAPPLE PAY ENDING IN 5714",
+      "amt": "1.05",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-26",
+      "desc": "STARBUCKS 800-782-7282 800-782-7282 WAAPPLE PAY ENDING IN 571423IL9BIHSFRCWOKD",
+      "amt": "15",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-26",
+      "desc": "REG DOWNINGTOWN 0385 DOWNINGTOWN PA - FAST FOOD IN REGAL",
+      "amt": "29.01",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2020-03-26",
+      "desc": "BHAVANI FOOD MARKET EXTON PAAPPLE PAY ENDING IN 4922",
+      "amt": "44.93",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-26",
+      "desc": "SQ *PERSIS INDIAN GRIL EXTON PA0002305843015379292313",
+      "amt": "74.92",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2020-03-26",
+      "desc": "RITA'S WATER ICE UWCHLAN PAAPPLE PAY ENDING IN 5714",
+      "amt": "1.94",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-26",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "6.91",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-27",
+      "desc": "KOHL'S #0277 EXTON PAAPPLE PAY ENDING IN 4922",
+      "amt": "-9.54",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2020-03-27",
+      "desc": "REGAL CINEMAS MOBILE APP 877-835-5734 TN",
+      "amt": "87.8",
+      "category": "ENTERTAINMENT"
+    },
+    {
+      "date": "2020-03-27",
+      "desc": "MICHAELS STORES 4806 EXTON PAAPPLE PAY ENDING IN 49224806000242832203271853",
+      "amt": "7.41",
+      "category": "MISC"
+    },
+    {
+      "date": "2020-03-27",
+      "desc": "GIANT 6478 EXTON PAGOOGLE PAY ENDING IN 120602745R",
+      "amt": "48.62",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-27",
+      "desc": "DUNKIN' MOBILE GP 800-447-0013 MAGOOGLE PAY ENDING IN 1206",
+      "amt": "10",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-27",
+      "desc": "BHAVANI FOOD MARKET EXTON PAGOOGLE PAY ENDING IN 1206",
+      "amt": "27.76",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-27",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "6.98",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-27",
+      "desc": "ACME 0703 CHESTER SPRINPAAPPLE PAY ENDING IN 4922",
+      "amt": "2.48",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-28",
+      "desc": "SQ *INDIAN HUT EXTON EXTON PA0002305843015389073993",
+      "amt": "2.11",
+      "category": "RESTAURANT"
+    },
+    {
+      "date": "2020-03-28",
+      "desc": "PRODUCE JUNCTION EXTON- EXTON PA",
+      "amt": "15",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-28",
+      "desc": "BURLINGTON STORES 1352 EXTON PA",
+      "amt": "4.23",
+      "category": "CLOTHES"
+    },
+    {
+      "date": "2020-03-28",
+      "desc": "AUTOMATIC STATEMENT CREDIT",
+      "amt": "-44.4",
+      "category": "STMT REWARDS"
+    },
+    {
+      "date": "2020-03-29",
+      "desc": "THE HOME DEPOT #4137 DOWNINGTOWN PA",
+      "amt": "22.72",
+      "category": "HOUSE MAINTENANCE"
+    },
+    {
+      "date": "2020-03-29",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 4922",
+      "amt": "2.19",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2020-03-30",
+      "desc": "PHILLY PRETZEL EXTON EXTON PA",
+      "amt": "3",
+      "category": "FAST FOOD"
+    },
+    {
+      "date": "2020-03-30",
+      "desc": "GIANT 6478 EXTON PAGOOGLE PAY ENDING IN 120603059R",
+      "amt": "11.68",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-30",
+      "desc": "CVS/PHARMACY #02951 CHESTER SPRINPAAPPLE PAY ENDING IN 5714",
+      "amt": "24.74",
+      "category": "PHARMACY"
+    },
+    {
+      "date": "2020-03-30",
+      "desc": "ACME 0703 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "3.69",
+      "category": "GROCERIES"
+    },
+    {
+      "date": "2020-03-31",
+      "desc": "WAWA 201 CHESTER SPRINPAGOOGLE PAY ENDING IN 1206",
+      "amt": "38.67",
+      "category": "AUTO GAS"
+    },
+
+    {
+      "date": "2020-03-04",
+      "desc": "DISCOVER",
+      "amt": "34",
+      "category": "CC DEBT PAYMENT"
+    }
+  ],
+  "cash": {
+    "summary": [
+      { "desc": "TOTAL CASH AVL", "amt": 3607.13092999998 },
+      { "desc": "TOTAL DEBT", "amt": 42909.6137907622 },
+      { "desc": "NET WORTH", "amt": -387542.54765654 }
+    ],
+    "debts": [
+      { "desc": "CREDIT CARDS", "amt": 19832.3338311325 },
+      { "desc": "COOKING RANGE", "amt": 1614.95 },
+      { "desc": "HOME DEPOT", "amt": 3345.07 },
+      { "desc": "HONDA ODYSSEY", "amt": 1095.31995962969 },
+      { "desc": "HONDA CIVIC", "amt": 10630.17 },
+      { "desc": "DR.BRADYS", "amt": 1541.6 },
+      { "desc": "GENERATOR", "amt": 4850.17 },
+      { "desc": "MORTGAGE", "amt": 348240.064795778 }
+    ]
+  }
+}
