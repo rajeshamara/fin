@@ -5,7 +5,7 @@
     { "desc": "CC PAYMENTS", "amt": 34 },
     { "desc": "TOTAL", "amt": 11509.65 }
   ],
-  "category": [
+ "category": [
     { "desc": "MORTGAGE", "amt": 3443.21 },
     { "desc": "HOUSE MAINTENANCE", "amt": 3908.94 },
     { "desc": "GROCERIES", "amt": 776.17 },
@@ -17,7 +17,6 @@
     { "desc": "AUTO PAYMENT", "amt": 231.73 },
     { "desc": "ENTERTAINMENT", "amt": 196.29 },
     { "desc": "LIFE INSURNACE", "amt": 169.79 },
-    { "desc": "CLOTHES", "amt": 115.3 },
     { "desc": "CELL PHONE", "amt": 145.85 },
     { "desc": "MISC", "amt": 141.07 },
     { "desc": "PHARMACY", "amt": 110.81 },
@@ -25,6 +24,7 @@
     { "desc": "TOLLS", "amt": 105 },
     { "desc": "HEALTH", "amt": 64.93 },
     { "desc": "KIDS 529", "amt": 50 },
+    { "desc": "CLOTHES", "amt": 39.18 },
     { "desc": "CC DEBT PAYMENT", "amt": 34 },
     { "desc": "KITCHEN", "amt": 24.14 },
     { "desc": "INTERNET", "amt": 14.09 },
