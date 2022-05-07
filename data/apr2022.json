@@ -31,8 +31,16 @@
     { "desc": "HOUSEHOLD SUPPLIES", "amt": 53.1482 },
     { "desc": "KIDS 529", "amt": 50 },
     { "desc": "INTERNET", "amt": 34.44 },
-    { "desc": "CC DEBT PAYMENT", "amt": 34 }
+    { "desc": "CC DEBT PAYMENT", "amt": 34 },
+    { "desc": "MISC-PERSONAL", "amt": 32.84 },
+    { "desc": "AUTO EXPENSES", "amt": 30.5 },
+    { "desc": "TRANSPORTATION", "amt": 29.78 },
+    { "desc": "PARKING", "amt": 26.85 },
+    { "desc": "PHARMACY", "amt": 13.65 },
+    { "desc": "LOTTERY", "amt": 10 },
+    { "desc": "STMT REWARDS", "amt": -73.54 }
   ],
+
   "detail": [
     {
       "date": "2022-04-01",
